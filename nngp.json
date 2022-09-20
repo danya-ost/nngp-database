@@ -1,0 +1,961 @@
+[
+{"type":"header","version":"5.1.3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"nngp"},
+{"type":"table","name":"abs","database":"nngp","data":
+[
+{"id":"1","user_id":"1","date_add":"2022-09-08 18:47:51","date_update":"2022-09-10 14:10:06","date_remove":null,"status":"1","status_delete":"0"},
+{"id":"2","user_id":"1","date_add":"2022-09-08 18:51:08","date_update":"2022-09-10 14:09:49","date_remove":"2022-09-10 14:21:13","status":"0","status_delete":"1"},
+{"id":"3","user_id":"1","date_add":"2022-09-10 14:11:08","date_update":"2022-09-11 13:36:46","date_remove":null,"status":"1","status_delete":"0"},
+{"id":"4","user_id":"1","date_add":"2022-09-10 14:21:52","date_update":"2022-09-11 13:35:57","date_remove":null,"status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"abs_content","database":"nngp","data":
+[
+{"id":"1","abs_id":"1","title":"Отдам пушистых и очень красивых котят в хорошие руки","content":"Котята родились в середине апреля. Кушают самостоятельно корма и еду со стола. К лотку приучены. Мама персидской породы. Все котята пушистые, есть 4 девочки и два пацана. Ласковые, игривые. Звоните: +7 989 012 34 54"},
+{"id":"2","abs_id":"2","title":"Чистый разум не скован границами","content":"Но непосредственные участники технического прогресса лишь добавляют фракционных разногласий и разоблачены. Внезапно, сделанные на базе интернет-аналитики выводы представляют собой не что иное, как квинтэссенцию победы маркетинга над разумом и должны быть ограничены исключительно образом мышления."},
+{"id":"3","abs_id":"3","title":"В провинциях ещё есть чем поживиться","content":"Но повышение уровня гражданского сознания представляет собой интересный эксперимент проверки вывода текущих активов. Есть над чем задуматься: ключевые особенности структуры проекта набирают популярность среди определенных слоев населения, а значит, должны быть функционально разнесены на независимые элементы."},
+{"id":"4","abs_id":"4","title":"Как бы то ни было, экономическая повестка сегодняшнего дня разочаровала","content":"Как принято считать, некоторые особенности внутренней политики набирают популярность среди определенных слоев населения, а значит, должны быть в равной степени предоставлены сами себе. Внезапно, диаграммы связей лишь добавляют фракционных разногласий и представлены в исключительно положительном свете!"}
+]
+}
+,{"type":"table","name":"abs_file","database":"nngp","data":
+[
+{"id":"1","abs_id":"1","src":"uploads\/iM1HGDHKRTLqGVg5jDzKhEqrssonGD.jpg"},
+{"id":"3","abs_id":"2","src":"uploads\/R6oKkIaWtzomHSlVzNFwni18bsB-XE.jpg"},
+{"id":"4","abs_id":"2","src":"uploads\/W9VGI164G2zU1QGiJIn66xgMKbHwhI.jpg"},
+{"id":"8","abs_id":"3","src":"uploads\/BfNfsZGe01xc8BjtEZDZjaOIT4xnGV.jpg"},
+{"id":"9","abs_id":"4","src":"uploads\/5_-OO493jeI__kC_2FMSvU41hx5abI.jpg"}
+]
+}
+,{"type":"table","name":"appeals","database":"nngp","data":
+[
+{"id":"2","user_id":"1","status_id":"3","defined_user_id":"1","date_add":"2022-09-11 00:12:50","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"3","user_id":"1","status_id":"3","defined_user_id":"1","date_add":"2022-09-11 00:14:19","date_update":null,"date_remove":null,"status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"appeals_content","database":"nngp","data":
+[
+{"id":"1","appeals_id":"2","title":"Смешно, но объемы выросли","message_text":"Являясь всего лишь частью общей картины, интерактивные прототипы формируют глобальную экономическую сеть и при этом — разоблачены. Являясь всего лишь частью общей картины, элементы политического процесса освещают чрезвычайно интересные особенности картины в целом, однако конкретные выводы, разумеется, представлены в исключительно положительном свете. Современные технологии достигли такого уровня, что дальнейшее развитие различных форм деятельности обеспечивает широкому кругу (специалистов) участие в формировании поставленных обществом задач.","response_text":"Добрый день, ваше обращение принято и передано в службу безопасности для проведения внутреннего расследования!"},
+{"id":"2","appeals_id":"3","title":"Светлый лик правового взаимодействия стал нашим флагом в борьбе с ложью","message_text":"Таким образом, убеждённость некоторых оппонентов напрямую зависит от поэтапного и последовательного развития общества. Значимость этих проблем настолько очевидна, что новая модель организационной деятельности не даёт нам иного выбора, кроме определения соответствующих условий активизации. С другой стороны, реализация намеченных плановых заданий позволяет оценить значение экономической целесообразности принимаемых решений.","response_text":"Прежде всего, семантический разбор внешних противодействий напрямую зависит от существующих финансовых и административных условий. Не следует, однако, забывать, что реализация намеченных плановых заданий, а также свежий взгляд на привычные вещи — безусловно открывает новые горизонты для позиций, занимаемых участниками в отношении поставленных задач."}
+]
+}
+,{"type":"table","name":"appeals_file","database":"nngp","data":
+[
+{"id":"1","appeals_id":"2","src":"uploads\/56ACMz-VvtftRl4Ewg9Qbokrq5cb6s.pdf","type":"1"},
+{"id":"2","appeals_id":"3","src":"uploads\/BcFlhIslXop1Fes88eKVvVuYGpe-vh.pdf","type":"1"},
+{"id":"3","appeals_id":"3","src":"uploads\/ZqMQtv8YPMJHekh3BkL6ck5bujv7o-.xlsx","type":"1"},
+{"id":"4","appeals_id":"3","src":"uploads\/lI5plTuLJgG9L7sEHd-tursSZFOXQU.xlsx","type":"1"},
+{"id":"5","appeals_id":"2","src":"uploads\/X_LP_eTaBXBhmARc0zBGqTmft04cbx.doc","type":"2"},
+{"id":"6","appeals_id":"2","src":"uploads\/yoWpMB5urHmh4ajiTS4hRDDCPdQaBD.zip","type":"2"},
+{"id":"7","appeals_id":"2","src":"uploads\/FDU_X-a4j9dUiBbRk5471UoXkcqecR.msi","type":"2"}
+]
+}
+,{"type":"table","name":"appeals_status","database":"nngp","data":
+[
+{"id":"1","name":"ОТВЕТ ПОЛУЧЕН","status":"1"},
+{"id":"2","name":"ОЖИДАЕТ ОТВЕТА","status":"1"},
+{"id":"3","name":"ЗАКРЫТО","status":"1"}
+]
+}
+,{"type":"table","name":"auth_assignment","database":"nngp","data":
+[
+{"item_name":"admin","user_id":"1","created_at":"1661249735"},
+{"item_name":"deputy_admin","user_id":"3","created_at":"1661250432"}
+]
+}
+,{"type":"table","name":"auth_item","database":"nngp","data":
+[
+{"name":"addAbs","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"addBlog","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"addCust","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"addDocs","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"addNews","type":"2","description":"Добавление новостей","rule_name":null,"data":null,"created_at":"1661249735","updated_at":"1661249735"},
+{"name":"addNewsCategory","type":"2","description":"Добавление категорий новостей","rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"addProjects","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"addProjectsGroup","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"addServices","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"admin","type":"1","description":"РОЛЬ: Супер администратор","rule_name":null,"data":null,"created_at":"1661249735","updated_at":"1661249735"},
+{"name":"adminAbs","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"adminBlog","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"adminCust","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"adminDocs","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"adminNews","type":"2","description":"Просмотр панели администратора новостей","rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"adminNewsCategory","type":"2","description":"Просмотр панели администратора категорий новостей","rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"adminProjects","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"adminProjectsGroup","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"adminServices","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"adminTemplateAbout","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"adminTemplateCarrier","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"deleteAbs","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"deleteBlog","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"deleteCust","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"deleteDocs","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"deleteNews","type":"2","description":"Удаление новостей","rule_name":null,"data":null,"created_at":"1661249735","updated_at":"1661249735"},
+{"name":"deleteNewsCategory","type":"2","description":"Удаление и деактивация категорий новостей","rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"deleteProjects","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"deleteProjectsGroup","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"deleteServices","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"deputy_admin","type":"1","description":"РОЛЬ: Администратор","rule_name":null,"data":null,"created_at":"1661249735","updated_at":"1661249735"},
+{"name":"responseAppeals","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"responseInitiative","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"updateAbs","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"updateBlog","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"updateCust","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"updateNews","type":"2","description":"Обновление новостей","rule_name":null,"data":null,"created_at":"1661249735","updated_at":"1661249735"},
+{"name":"updateNewsCategory","type":"2","description":"Обновление категорий новостей","rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"updateProjects","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"updateProjectsGroup","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null},
+{"name":"updateServices","type":"2","description":null,"rule_name":null,"data":null,"created_at":null,"updated_at":null}
+]
+}
+,{"type":"table","name":"auth_item_child","database":"nngp","data":
+[
+{"parent":"admin","child":"addAbs"},
+{"parent":"admin","child":"addBlog"},
+{"parent":"admin","child":"addCust"},
+{"parent":"admin","child":"addDocs"},
+{"parent":"admin","child":"addNews"},
+{"parent":"deputy_admin","child":"addNews"},
+{"parent":"admin","child":"addNewsCategory"},
+{"parent":"admin","child":"addProjects"},
+{"parent":"admin","child":"addProjectsGroup"},
+{"parent":"admin","child":"addServices"},
+{"parent":"admin","child":"adminAbs"},
+{"parent":"admin","child":"adminBlog"},
+{"parent":"admin","child":"adminCust"},
+{"parent":"admin","child":"adminDocs"},
+{"parent":"admin","child":"adminNews"},
+{"parent":"deputy_admin","child":"adminNews"},
+{"parent":"admin","child":"adminNewsCategory"},
+{"parent":"deputy_admin","child":"adminNewsCategory"},
+{"parent":"admin","child":"adminProjects"},
+{"parent":"admin","child":"adminProjectsGroup"},
+{"parent":"admin","child":"adminServices"},
+{"parent":"admin","child":"adminTemplateAbout"},
+{"parent":"admin","child":"adminTemplateCarrier"},
+{"parent":"admin","child":"deleteAbs"},
+{"parent":"admin","child":"deleteBlog"},
+{"parent":"admin","child":"deleteCust"},
+{"parent":"admin","child":"deleteDocs"},
+{"parent":"deputy_admin","child":"deleteNews"},
+{"parent":"admin","child":"deleteNewsCategory"},
+{"parent":"admin","child":"deleteProjects"},
+{"parent":"admin","child":"deleteProjectsGroup"},
+{"parent":"admin","child":"deleteServices"},
+{"parent":"admin","child":"deputy_admin"},
+{"parent":"admin","child":"responseAppeals"},
+{"parent":"admin","child":"responseInitiative"},
+{"parent":"admin","child":"updateAbs"},
+{"parent":"admin","child":"updateBlog"},
+{"parent":"admin","child":"updateCust"},
+{"parent":"admin","child":"updateNews"},
+{"parent":"admin","child":"updateNewsCategory"},
+{"parent":"deputy_admin","child":"updateNewsCategory"},
+{"parent":"admin","child":"updateProjects"},
+{"parent":"admin","child":"updateProjectsGroup"},
+{"parent":"admin","child":"updateServices"}
+]
+}
+,{"type":"table","name":"auth_rule","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"blog","database":"nngp","data":
+[
+{"id":"1","user_id":"1","department_id":"1","views":"0","date_add":"2022-08-28 22:32:52","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"2","user_id":"1","department_id":"1","views":"0","date_add":"2022-08-28 22:52:24","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"3","user_id":"1","department_id":"1","views":"0","date_add":"2022-08-28 22:57:25","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"4","user_id":"1","department_id":"1","views":"0","date_add":"2022-08-28 22:58:07","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"5","user_id":"1","department_id":"1","views":"0","date_add":"2022-08-28 23:00:10","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"6","user_id":"1","department_id":"2","views":"0","date_add":"2022-08-28 23:12:24","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"7","user_id":"1","department_id":"1","views":"0","date_add":"2022-08-28 23:16:19","date_update":null,"date_remove":null,"status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"blog_content","database":"nngp","data":
+[
+{"id":"1","blog_id":"1","title":"Реализация намеченных плановых заданий бодрит","annotation":"Сложно сказать, почему акционеры крупнейших компаний лишь добавляют фракционных разногласий и преданы социально-демократической анафеме.","content":"<p>Прежде всего, укрепление и развитие внутренней структуры требует анализа приоретизации разума над эмоциями. В своём стремлении повысить качество жизни, они забывают, что курс на социально-ориентированный национальный проект требует анализа инновационных методов управления процессами. Не следует, однако, забывать, что дальнейшее развитие различных форм деятельности позволяет выполнить важные задания по разработке инновационных методов управления процессами. Банальные, но неопровержимые выводы, а также многие известные личности заблокированы в рамках своих собственных рациональных ограничений.<\/p>\r\n\r\n<p>Ясность нашей позиции очевидна: социально-экономическое развитие требует определения и уточнения дальнейших направлений развития! Каждый из нас понимает очевидную вещь: сплочённость команды профессионалов не даёт нам иного выбора, кроме определения дальнейших направлений развития! Вот вам яркий пример современных тенденций — внедрение современных методик прекрасно подходит для реализации кластеризации усилий. С другой стороны, новая модель организационной деятельности играет определяющее значение для переосмысления внешнеэкономических политик.<\/p>"},
+{"id":"2","blog_id":"2","title":"На двадцатом съезде партии прозвучало поразительно","annotation":"На двадцатом съезде партии прозвучало поразительное заявление: неподкупность государственных СМИ стала доступной ширнармассам","content":"<p>&lt;p&gt;Вот вам яркий пример современных тенденций &mdash; новая модель организационной деятельности позволяет выполнить важные задания по разработке кластеризации усилий. Лишь действия представителей оппозиции лишь добавляют фракционных разногласий и объявлены нарушающими общечеловеческие нормы этики и морали. Лишь акционеры крупнейших компаний представляют собой не что иное, как квинтэссенцию победы маркетинга над разумом и должны быть ограничены исключительно образом мышления. Прежде всего, высокое качество позиционных исследований позволяет оценить значение позиций, занимаемых участниками в отношении поставленных задач. А также предприниматели в сети интернет, вне зависимости от их уровня, должны быть разоблачены. Безусловно, постоянное информационно-пропагандистское обеспечение нашей деятельности позволяет выполнить важные задания по разработке распределения внутренних резервов и ресурсов.&lt;\/p&gt;<\/p>\n<p>&lt;p&gt;Как принято считать, диаграммы связей, инициированные исключительно синтетически, указаны как претенденты на роль ключевых факторов. Но независимые государства являются только методом политического участия и указаны как претенденты на роль ключевых факторов.&lt;\/p&gt;<\/p>"},
+{"id":"3","blog_id":"3","title":"На двадцатом съезде партии прозвучало поразительно","annotation":"На двадцатом съезде партии прозвучало поразительное заявление: неподкупность государственных СМИ стала доступной ширнармассам","content":"<p>&lt;p&gt;Вот вам яркий пример современных тенденций &mdash; новая модель организационной деятельности позволяет выполнить важные задания по разработке кластеризации усилий. Лишь действия представителей оппозиции лишь добавляют фракционных разногласий и объявлены нарушающими общечеловеческие нормы этики и морали. Лишь акционеры крупнейших компаний представляют собой не что иное, как квинтэссенцию победы маркетинга над разумом и должны быть ограничены исключительно образом мышления. Прежде всего, высокое качество позиционных исследований позволяет оценить значение позиций, занимаемых участниками в отношении поставленных задач. А также предприниматели в сети интернет, вне зависимости от их уровня, должны быть разоблачены. Безусловно, постоянное информационно-пропагандистское обеспечение нашей деятельности позволяет выполнить важные задания по разработке распределения внутренних резервов и ресурсов.&lt;\/p&gt;<\/p>\n<p>&lt;p&gt;Как принято считать, диаграммы связей, инициированные исключительно синтетически, указаны как претенденты на роль ключевых факторов. Но независимые государства являются только методом политического участия и указаны как претенденты на роль ключевых факторов.&lt;\/p&gt;<\/p>"},
+{"id":"4","blog_id":"4","title":"На двадцатом съезде партии прозвучало поразительно","annotation":"На двадцатом съезде партии прозвучало поразительное заявление: неподкупность государственных СМИ стала доступной ширнармассам","content":"<p>&lt;p&gt;Вот вам яркий пример современных тенденций &mdash; новая модель организационной деятельности позволяет выполнить важные задания по разработке кластеризации усилий. Лишь действия представителей оппозиции лишь добавляют фракционных разногласий и объявлены нарушающими общечеловеческие нормы этики и морали. Лишь акционеры крупнейших компаний представляют собой не что иное, как квинтэссенцию победы маркетинга над разумом и должны быть ограничены исключительно образом мышления. Прежде всего, высокое качество позиционных исследований позволяет оценить значение позиций, занимаемых участниками в отношении поставленных задач. А также предприниматели в сети интернет, вне зависимости от их уровня, должны быть разоблачены. Безусловно, постоянное информационно-пропагандистское обеспечение нашей деятельности позволяет выполнить важные задания по разработке распределения внутренних резервов и ресурсов.&lt;\/p&gt;<\/p>\n<p>&lt;p&gt;Как принято считать, диаграммы связей, инициированные исключительно синтетически, указаны как претенденты на роль ключевых факторов. Но независимые государства являются только методом политического участия и указаны как претенденты на роль ключевых факторов.&lt;\/p&gt;<\/p>"},
+{"id":"5","blog_id":"5","title":"На двадцатом съезде партии","annotation":"На двадцатом съезде партии прозвучало поразительное заявление: неподкупность государственных СМИ стала доступной ширнармассам","content":"<p>&nbsp;<\/p>\n<p>Вот вам яркий пример современных тенденций &mdash; новая модель организационной деятельности позволяет выполнить важные задания по разработке кластеризации усилий. Лишь действия представителей оппозиции лишь добавляют фракционных разногласий и объявлены нарушающими общечеловеческие нормы этики и морали. Лишь акционеры крупнейших компаний представляют собой не что иное, как квинтэссенцию победы маркетинга над разумом и должны быть ограничены исключительно образом мышления. Прежде всего, высокое качество позиционных исследований позволяет оценить значение позиций, занимаемых участниками в отношении поставленных задач. А также предприниматели в сети интернет, вне зависимости от их уровня, должны быть разоблачены. Безусловно, постоянное информационно-пропагандистское обеспечение нашей деятельности позволяет выполнить важные задания по разработке распределения внутренних резервов и ресурсов.<\/p>\n<p>&nbsp;<\/p>\n<p>&nbsp;<\/p>\n<p>Как принято считать, диаграммы связей, инициированные исключительно синтетически, указаны как претенденты на роль ключевых факторов. Но независимые государства являются только методом политического участия и указаны как претенденты на роль ключевых факторов.<\/p>\n<p>&nbsp;<\/p>"},
+{"id":"6","blog_id":"6","title":"Эксперты утверждают, что современная методология р","annotation":"Следует отметить, что экономическая повестка сегодняшнего дня представляет собой интересный эксперимент проверки распределения внутренних резервов и ресурсов!","content":"<p>&lt;p&gt;Идейные соображения высшего порядка, а также социально-экономическое развитие играет определяющее значение для поэтапного и последовательного развития общества. Внезапно, диаграммы связей призывают нас к новым свершениям, которые, в свою очередь, должны быть смешаны с не уникальными данными до степени совершенной неузнаваемости, из-за чего возрастает их статус бесполезности. Идейные соображения высшего порядка, а также начало повседневной работы по формированию позиции позволяет выполнить важные задания по разработке глубокомысленных рассуждений. Идейные соображения высшего порядка, а также дальнейшее развитие различных форм деятельности обеспечивает широкому кругу (специалистов) участие в формировании анализа существующих паттернов поведения. Принимая во внимание показатели успешности, сплочённость команды профессионалов позволяет выполнить важные задания по разработке поэтапного и последовательного развития общества.&lt;\/p&gt;<\/p>\n<p>&lt;p&gt;Есть над чем задуматься: многие известные личности освещают чрезвычайно интересные особенности картины в целом, однако конкретные выводы, разумеется, ассоциативно распределены по отраслям. Однозначно, тщательные исследования конкурентов лишь добавляют фракционных разногласий и смешаны с не уникальными данными до степени совершенной неузнаваемости, из-за чего возрастает их статус бесполезности. Картельные сговоры не допускают ситуации, при которой независимые государства набирают популярность среди определенных слоев населения, а значит, должны быть объективно рассмотрены соответствующими инстанциями! Внезапно, независимые государства в равной степени предоставлены сами себе. Современные технологии достигли такого уровня, что разбавленное изрядной долей эмпатии, рациональное мышление напрямую зависит от как самодостаточных, так и внешне зависимых концептуальных решений. Ясность нашей позиции очевидна: повышение уровня гражданского сознания говорит о возможностях вывода текущих активов.&lt;\/p&gt;<\/p>"},
+{"id":"7","blog_id":"7","title":"Светлый лик правового взаимодействия продолжает уд","annotation":"Каждый из нас понимает очевидную вещь: реализация намеченных плановых заданий обеспечивает актуальность распределения внутренних резервов и ресурсов.","content":"<p>Повседневная практика показывает, что социально-экономическое развитие не даёт нам иного выбора, кроме определения поэтапного и последовательного развития общества. В рамках спецификации современных стандартов, интерактивные прототипы будут своевременно верифицированы.<\/p>"}
+]
+}
+,{"type":"table","name":"blog_preview","database":"nngp","data":
+[
+{"id":"1","blog_id":"1","image_src":"\/frontend\/web\/uploads\/vebgPfdCvtLaZ268I_pk0_2tnvnvE-.jpg","video_src":""},
+{"id":"2","blog_id":"5","image_src":"\/frontend\/web\/uploads\/mHPce4ojo-hyNu0UqOQpXqUeypurxp.png","video_src":""},
+{"id":"3","blog_id":"6","image_src":"\/frontend\/web\/uploads\/6x9LfUVK60O-VQwft1tRrnebypeuPE.png","video_src":"undefined"},
+{"id":"4","blog_id":"7","image_src":"\/frontend\/web\/uploads\/zcJQdWISdy-IktXXs9YG0qbmdyQtFh.jpg","video_src":""}
+]
+}
+,{"type":"table","name":"customer","database":"nngp","data":
+[
+{"id":"2","name":"ООО &quot;ЛУКОЙЛ-Ухтанефтепереработка&quot;","address":"г. Ухта"},
+{"id":"6","name":"ООО &quot;ЛУКОЙЛ-Центр&quot;","address":"г. Москва"},
+{"id":"9","name":"ООО «ЛУКОЙЛ-Волгограднефтепереработка»","address":"г. Волгоград, ул.40 лет ВЛКСМ, 55."},
+{"id":"10","name":"ПАО «Татнефть»","address":"23450 Россия, Республика Татарстан, г. Альметьевск, ул. Ленина, д. 75."}
+]
+}
+,{"type":"table","name":"department","database":"nngp","data":
+[
+{"id":"1","middle":"0","user_id":"1","date_add":"2022-08-23 16:13:12","date_update":null,"date_remove":null,"status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"department_bottom","database":"nngp","data":
+[
+{"id":"1","department_id":"1","middle_id":null,"user_id":"1","date_add":"2022-08-23 16:17:45","date_update":null,"date_remove":null,"status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"department_content","database":"nngp","data":
+[
+{"id":"1","data_key":"top","department_id":"1","middle_id":null,"bottom_id":null,"title":"Департамент по управлению обособленными подразделениями","abbreviation":"ДУОП","telephone":"201-52-78"},
+{"id":"2","data_key":"bottom","department_id":null,"middle_id":null,"bottom_id":"1","title":"Обособленное подразделение г. Москва","abbreviation":"ОП г. Москва","telephone":"123-45-67"}
+]
+}
+,{"type":"table","name":"department_middle","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"department_worker","database":"nngp","data":
+[
+{"id":"1","data_key":"bottom","department_id":null,"middle_id":null,"bottom_id":"1","user_id":"1"},
+{"id":"2","data_key":"bottom","department_id":null,"middle_id":null,"bottom_id":"1","user_id":"3"}
+]
+}
+,{"type":"table","name":"doc","database":"nngp","data":
+[
+{"id":"1","user_id":"1","date_add":"2022-09-04 08:57:02","date_update":"2022-09-04 08:56:57","date_remove":"2022-09-04 08:56:57","status":"0","status_delete":"1"},
+{"id":"2","user_id":"1","date_add":"2022-09-04 20:14:40","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"3","user_id":"1","date_add":"2022-09-04 20:23:32","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"4","user_id":"1","date_add":"2022-09-06 11:09:23","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"5","user_id":"1","date_add":"2022-09-06 11:13:31","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"6","user_id":"1","date_add":"2022-09-06 11:13:49","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"7","user_id":"1","date_add":"2022-09-08 12:25:31","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"8","user_id":"1","date_add":"2022-09-13 07:33:52","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"9","user_id":"1","date_add":"2022-09-13 07:52:11","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"10","user_id":"1","date_add":"2022-09-13 07:54:07","date_update":null,"date_remove":null,"status":"0","status_delete":"1"}
+]
+}
+,{"type":"table","name":"doc_content","database":"nngp","data":
+[
+{"id":"1","doc_id":"1","title":"Система менеджмента качества","src":"test"},
+{"id":"2","doc_id":"2","title":"Российский рубль","src":"uploads\/V9axHsINY_WzRG-XGjmqF7Sx_nwiJ3.png"},
+{"id":"3","doc_id":"3","title":"Интернет-магазин","src":"uploads\/VdD7XT6NwzmQAaAv2F_t3JYt_Ps3qn.png"},
+{"id":"4","doc_id":"4","title":"Система администирования","src":"uploads\/1km3vyZejshfJetyA_nx34OETUpHJx.pdf"},
+{"id":"5","doc_id":"5","title":"Образец договора оферты","src":"uploads\/jksMfBnP8YnY_Sk48BNHSqlN8xiXrN.pdf"},
+{"id":"6","doc_id":"6","title":"Новому сотруднику","src":"uploads\/5R6e6JK-2ZOB_bz26s5VGsGUItQXHM.pdf"},
+{"id":"7","doc_id":"7","title":"New document","src":"uploads\/himQIi-bLTpfqgLSbgog6hPZ_OBjHG.pdf"},
+{"id":"8","doc_id":"8","title":"Тестовый документ","src":"uploads\/96LT57JkNWCzQau94qwtH84TS8z1AB.pdf"},
+{"id":"9","doc_id":"9","title":"Новому сотруднику","src":"uploads\/_QZ6UHYFiY2-SaMZB3lmkGFDbWzb8e.pdf"},
+{"id":"10","doc_id":"10","title":"Российский рубль","src":"uploads\/zqnN6ZNIPaKeTnKbIJR8ZWwFaNmGaI.pdf"}
+]
+}
+,{"type":"table","name":"files","database":"nngp","data":
+[
+{"id":"215","user_id":"1","date_add":"2022-09-01 14:07:54","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"216","user_id":"1","date_add":"2022-09-01 14:17:43","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"217","user_id":"1","date_add":"2022-09-01 14:18:25","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"218","user_id":"1","date_add":"2022-09-01 14:18:32","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"219","user_id":"1","date_add":"2022-09-01 14:19:04","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"220","user_id":"1","date_add":"2022-09-01 14:19:30","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"221","user_id":"1","date_add":"2022-09-01 14:20:03","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"222","user_id":"1","date_add":"2022-09-01 14:20:10","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"223","user_id":"1","date_add":"2022-09-01 17:57:06","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"224","user_id":"1","date_add":"2022-09-02 11:00:35","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"225","user_id":"1","date_add":"2022-09-04 20:14:13","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"226","user_id":"1","date_add":"2022-09-04 20:14:40","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"227","user_id":"1","date_add":"2022-09-04 20:23:32","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"228","user_id":"1","date_add":"2022-09-05 00:02:50","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"229","user_id":"1","date_add":"2022-09-06 11:09:22","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"230","user_id":"1","date_add":"2022-09-06 11:13:30","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"231","user_id":"1","date_add":"2022-09-06 11:13:49","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"232","user_id":"1","date_add":"2022-09-07 12:14:15","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"233","user_id":"1","date_add":"2022-09-08 12:25:31","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"234","user_id":"1","date_add":"2022-09-08 18:20:30","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"235","user_id":"1","date_add":"2022-09-08 18:21:19","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"236","user_id":"1","date_add":"2022-09-08 18:21:58","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"237","user_id":"1","date_add":"2022-09-08 18:22:01","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"238","user_id":"1","date_add":"2022-09-08 18:22:05","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"239","user_id":"1","date_add":"2022-09-08 18:22:32","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"240","user_id":"1","date_add":"2022-09-08 18:23:13","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"241","user_id":"1","date_add":"2022-09-08 18:23:21","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"242","user_id":"1","date_add":"2022-09-08 18:23:28","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"243","user_id":"1","date_add":"2022-09-08 18:27:13","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"244","user_id":"1","date_add":"2022-09-08 18:27:16","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"245","user_id":"1","date_add":"2022-09-08 18:27:37","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"246","user_id":"1","date_add":"2022-09-08 18:27:39","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"247","user_id":"1","date_add":"2022-09-08 18:28:54","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"248","user_id":"1","date_add":"2022-09-08 18:28:56","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"249","user_id":"1","date_add":"2022-09-08 18:28:59","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"250","user_id":"1","date_add":"2022-09-08 18:29:07","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"251","user_id":"1","date_add":"2022-09-08 18:29:23","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"252","user_id":"1","date_add":"2022-09-08 18:29:25","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"253","user_id":"1","date_add":"2022-09-08 18:29:28","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"254","user_id":"1","date_add":"2022-09-08 18:29:34","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"255","user_id":"1","date_add":"2022-09-08 18:29:39","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"256","user_id":"1","date_add":"2022-09-08 18:29:45","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"257","user_id":"1","date_add":"2022-09-08 18:30:02","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"258","user_id":"1","date_add":"2022-09-08 18:31:01","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"259","user_id":"1","date_add":"2022-09-08 18:31:04","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"260","user_id":"1","date_add":"2022-09-08 18:43:35","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"261","user_id":"1","date_add":"2022-09-08 18:43:44","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"262","user_id":"1","date_add":"2022-09-08 18:44:57","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"263","user_id":"1","date_add":"2022-09-08 18:45:00","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"264","user_id":"1","date_add":"2022-09-08 18:47:13","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"265","user_id":"1","date_add":"2022-09-08 18:47:15","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"266","user_id":"1","date_add":"2022-09-08 18:47:48","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"267","user_id":"1","date_add":"2022-09-08 18:47:50","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"268","user_id":"1","date_add":"2022-09-08 18:50:58","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"269","user_id":"1","date_add":"2022-09-08 18:51:01","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"270","user_id":"1","date_add":"2022-09-08 18:51:04","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"271","user_id":"1","date_add":"2022-09-08 18:51:06","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"272","user_id":"1","date_add":"2022-09-10 14:11:03","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"273","user_id":"1","date_add":"2022-09-10 14:11:06","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"274","user_id":"1","date_add":"2022-09-10 14:21:37","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"275","user_id":"1","date_add":"2022-09-10 14:21:42","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"276","user_id":"1","date_add":"2022-09-10 14:21:46","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"277","user_id":"1","date_add":"2022-09-10 14:21:51","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"278","user_id":"1","date_add":"2022-09-10 16:45:25","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"279","user_id":"1","date_add":"2022-09-10 16:45:55","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"280","user_id":"1","date_add":"2022-09-10 16:46:14","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"281","user_id":"1","date_add":"2022-09-10 16:46:36","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"282","user_id":"1","date_add":"2022-09-10 16:46:49","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"283","user_id":"1","date_add":"2022-09-10 16:47:05","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"284","user_id":"1","date_add":"2022-09-10 16:48:44","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"285","user_id":"1","date_add":"2022-09-10 17:11:44","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"286","user_id":"1","date_add":"2022-09-10 17:11:47","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"287","user_id":"1","date_add":"2022-09-10 17:15:15","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"288","user_id":"1","date_add":"2022-09-10 17:16:00","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"289","user_id":"1","date_add":"2022-09-10 17:16:30","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"290","user_id":"1","date_add":"2022-09-10 17:17:49","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"291","user_id":"1","date_add":"2022-09-10 17:20:21","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"292","user_id":"1","date_add":"2022-09-10 17:35:01","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"293","user_id":"1","date_add":"2022-09-10 17:35:03","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"294","user_id":"1","date_add":"2022-09-10 18:28:34","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"295","user_id":"1","date_add":"2022-09-10 18:28:42","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"296","user_id":"1","date_add":"2022-09-10 18:28:50","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"297","user_id":"1","date_add":"2022-09-10 18:28:59","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"298","user_id":"1","date_add":"2022-09-10 19:01:28","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"299","user_id":"1","date_add":"2022-09-10 19:01:35","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"300","user_id":"1","date_add":"2022-09-10 19:02:16","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"301","user_id":"1","date_add":"2022-09-10 19:02:21","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"302","user_id":"1","date_add":"2022-09-10 19:31:07","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"303","user_id":"1","date_add":"2022-09-10 19:31:12","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"304","user_id":"1","date_add":"2022-09-10 19:31:22","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"305","user_id":"1","date_add":"2022-09-10 19:34:12","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"306","user_id":"1","date_add":"2022-09-10 19:35:09","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"307","user_id":"1","date_add":"2022-09-10 19:47:12","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"308","user_id":"1","date_add":"2022-09-10 19:53:12","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"309","user_id":"1","date_add":"2022-09-10 20:04:23","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"310","user_id":"1","date_add":"2022-09-10 20:04:48","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"311","user_id":"1","date_add":"2022-09-10 22:39:07","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"312","user_id":"1","date_add":"2022-09-10 22:40:21","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"313","user_id":"1","date_add":"2022-09-10 22:40:51","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"314","user_id":"3","date_add":"2022-09-10 22:42:45","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"315","user_id":"3","date_add":"2022-09-10 22:51:09","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"316","user_id":"1","date_add":"2022-09-10 23:03:38","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"317","user_id":"1","date_add":"2022-09-10 23:03:42","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"318","user_id":"1","date_add":"2022-09-10 23:03:49","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"319","user_id":"1","date_add":"2022-09-10 23:30:03","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"320","user_id":"1","date_add":"2022-09-11 00:11:43","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"321","user_id":"1","date_add":"2022-09-11 00:12:49","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"322","user_id":"1","date_add":"2022-09-11 00:14:09","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"323","user_id":"1","date_add":"2022-09-11 00:14:12","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"324","user_id":"1","date_add":"2022-09-11 00:14:17","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"325","user_id":"1","date_add":"2022-09-11 00:20:24","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"326","user_id":"1","date_add":"2022-09-11 00:20:32","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"327","user_id":"1","date_add":"2022-09-11 00:20:49","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"328","user_id":"1","date_add":"2022-09-11 00:20:56","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"329","user_id":"1","date_add":"2022-09-13 07:33:51","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"330","user_id":"1","date_add":"2022-09-13 07:52:11","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"331","user_id":"1","date_add":"2022-09-13 07:54:07","date_update":null,"date_remove":null,"status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"files_content","database":"nngp","data":
+[
+{"id":"215","file_id":"215","name":"photo_2022-07-13_13-25-08.jpg","alias":"ENHd7W0EXai_ZTWwQt-xXpT2MqkBjF.jpg","src":"uploads\/ENHd7W0EXai_ZTWwQt-xXpT2MqkBjF.jpg"},
+{"id":"216","file_id":"216","name":"1TP8HjWlMrISnkSpHjS3ouhGFE70dg.jpg","alias":"_kGUKppoJ7w4RodRKqg5HLCagdZuGV.jpg","src":"uploads\/_kGUKppoJ7w4RodRKqg5HLCagdZuGV.jpg"},
+{"id":"217","file_id":"217","name":"d09bzt9SW0YAlcGjnEl6CJKS9IycGY.jpg","alias":"FIOKRl7D5fNNEMD9LFogloNnROpxwj.jpg","src":"uploads\/FIOKRl7D5fNNEMD9LFogloNnROpxwj.jpg"},
+{"id":"218","file_id":"218","name":"dMNV6CNTiuRaHdvuMD-Iz4bwbKddnl.mp4","alias":"whaDafk2TTIiL6--DCB_SP5sMzckd5.mp4","src":"uploads\/whaDafk2TTIiL6--DCB_SP5sMzckd5.mp4"},
+{"id":"219","file_id":"219","name":"4BiJhz4KChdwLkp0WjPR0xT2RdxqGq.jpg","alias":"bowklU5bo6mLO3k5OJsHpt-TCHsYc-.jpg","src":"uploads\/bowklU5bo6mLO3k5OJsHpt-TCHsYc-.jpg"},
+{"id":"220","file_id":"220","name":"Fjrj_4_HYKpxoM6-9tmxTM72ZzRFEL.png","alias":"MRvw98RnOMjcQhIlGd4FBxGoossEtp.png","src":"uploads\/MRvw98RnOMjcQhIlGd4FBxGoossEtp.png"},
+{"id":"221","file_id":"221","name":"EO9pZTgiq-bOI-t88lzCR7ZHoI57v9.jpg","alias":"_3Sn8Qg65sAnhCWRonVKgesiZiB45D.jpg","src":"uploads\/_3Sn8Qg65sAnhCWRonVKgesiZiB45D.jpg"},
+{"id":"222","file_id":"222","name":"1IDHMnX6pIMee1fL9K8cKmYr2Xs563.mp4","alias":"qSjrA0Qy9E_jrysjTgI_jl1pnoD5WZ.mp4","src":"uploads\/qSjrA0Qy9E_jrysjTgI_jl1pnoD5WZ.mp4"},
+{"id":"223","file_id":"223","name":"0vpaU5FuF1OTJ2R4lcSqRAUbF4TlPr.jpg","alias":"-1jU2lu_-EDnuVuTxBa7GFA-rI3csS.jpg","src":"uploads\/-1jU2lu_-EDnuVuTxBa7GFA-rI3csS.jpg"},
+{"id":"224","file_id":"224","name":"130.webp","alias":"Bx6nbRturwLj42C7-DLqabjgMy-8-l.webp","src":"uploads\/Bx6nbRturwLj42C7-DLqabjgMy-8-l.webp"},
+{"id":"225","file_id":"225","name":"Group 9.png","alias":"mEawofEeDTv1EMyraLsayhGamUT6iw.png","src":"uploads\/mEawofEeDTv1EMyraLsayhGamUT6iw.png"},
+{"id":"226","file_id":"226","name":"Group 9.png","alias":"V9axHsINY_WzRG-XGjmqF7Sx_nwiJ3.png","src":"uploads\/V9axHsINY_WzRG-XGjmqF7Sx_nwiJ3.png"},
+{"id":"227","file_id":"227","name":"Union01.png","alias":"VdD7XT6NwzmQAaAv2F_t3JYt_Ps3qn.png","src":"uploads\/VdD7XT6NwzmQAaAv2F_t3JYt_Ps3qn.png"},
+{"id":"228","file_id":"228","name":"photo_2022-09-05_00-02-35.jpg","alias":"SXtJeyv8MpmNzMqR1pgVzBfjCqs80Z.jpg","src":"uploads\/SXtJeyv8MpmNzMqR1pgVzBfjCqs80Z.jpg"},
+{"id":"229","file_id":"229","name":"тестовый жокуменит в PDF.pdf","alias":"1km3vyZejshfJetyA_nx34OETUpHJx.pdf","src":"uploads\/1km3vyZejshfJetyA_nx34OETUpHJx.pdf"},
+{"id":"230","file_id":"230","name":"образец договора оферты.pdf","alias":"jksMfBnP8YnY_Sk48BNHSqlN8xiXrN.pdf","src":"uploads\/jksMfBnP8YnY_Sk48BNHSqlN8xiXrN.pdf"},
+{"id":"231","file_id":"231","name":"тестовый жокуменит в PDF.pdf","alias":"5R6e6JK-2ZOB_bz26s5VGsGUItQXHM.pdf","src":"uploads\/5R6e6JK-2ZOB_bz26s5VGsGUItQXHM.pdf"},
+{"id":"232","file_id":"232","name":"photo_2022-07-13_13-25-08.jpg","alias":"RUQTtFTP4qlu_VaclGMa_Kj4Yqd9Us.jpg","src":"uploads\/RUQTtFTP4qlu_VaclGMa_Kj4Yqd9Us.jpg"},
+{"id":"233","file_id":"233","name":"тестовый жокуменит в PDF.pdf","alias":"himQIi-bLTpfqgLSbgog6hPZ_OBjHG.pdf","src":"uploads\/himQIi-bLTpfqgLSbgog6hPZ_OBjHG.pdf"},
+{"id":"234","file_id":"234","name":"1581997326_abstract-triangle_vsthemes_ru-8.jpg","alias":"REM2DGojMRKJ9sT8KPsXTHhaTeyd2D.jpg","src":"uploads\/REM2DGojMRKJ9sT8KPsXTHhaTeyd2D.jpg"},
+{"id":"235","file_id":"235","name":"1581997326_abstract-triangle_vsthemes_ru-8.jpg","alias":"K84nzGo3giH4CItEbFPbiSs5rqLP1Y.jpg","src":"uploads\/K84nzGo3giH4CItEbFPbiSs5rqLP1Y.jpg"},
+{"id":"236","file_id":"236","name":"1581997326_abstract-triangle_vsthemes_ru-8.jpg","alias":"dHd9kDKMmX2APD27puwf0FUvuoC8TM.jpg","src":"uploads\/dHd9kDKMmX2APD27puwf0FUvuoC8TM.jpg"},
+{"id":"237","file_id":"237","name":"1642444066_38-phonoteka-org-p-fon-igrovoi-minimalizm-krasivo-39.png","alias":"BtovlhrZRFH3aP8LLqxrucLuCsypu-.png","src":"uploads\/BtovlhrZRFH3aP8LLqxrucLuCsypu-.png"},
+{"id":"238","file_id":"238","name":"-min.png","alias":"jmoC3rvzjKgyxdnWKMFKb5GZ80xeGd.png","src":"uploads\/jmoC3rvzjKgyxdnWKMFKb5GZ80xeGd.png"},
+{"id":"239","file_id":"239","name":"1581997326_abstract-triangle_vsthemes_ru-8.jpg","alias":"E97GaECYGgmjjIPRti3IU0SGEawTTJ.jpg","src":"uploads\/E97GaECYGgmjjIPRti3IU0SGEawTTJ.jpg"},
+{"id":"240","file_id":"240","name":"-min.png","alias":"NCLzuTv20CGuXcVH-kRmsAQUyRBOoD.png","src":"uploads\/NCLzuTv20CGuXcVH-kRmsAQUyRBOoD.png"},
+{"id":"241","file_id":"241","name":"160522-01.png","alias":"DL1GfkOTVzbOciZg-DUWCmgW9YOIem.png","src":"uploads\/DL1GfkOTVzbOciZg-DUWCmgW9YOIem.png"},
+{"id":"242","file_id":"242","name":"1602522-02.png","alias":"rg7LGk7gpxvrrzsE_4BgQf1S95IVKl.png","src":"uploads\/rg7LGk7gpxvrrzsE_4BgQf1S95IVKl.png"},
+{"id":"243","file_id":"243","name":"1581997326_abstract-triangle_vsthemes_ru-8.jpg","alias":"ARRadynHDkMvFyGqhtXpaORuSRDo_W.jpg","src":"uploads\/ARRadynHDkMvFyGqhtXpaORuSRDo_W.jpg"},
+{"id":"244","file_id":"244","name":"160522-05.png","alias":"zi35O-H9pVC5mYZbk4YLFgtbH3cBPl.png","src":"uploads\/zi35O-H9pVC5mYZbk4YLFgtbH3cBPl.png"},
+{"id":"245","file_id":"245","name":"1581997326_abstract-triangle_vsthemes_ru-8.jpg","alias":"_0g6a9jdxmNccyNuPNlLPtd_Z1ntyz.jpg","src":"uploads\/_0g6a9jdxmNccyNuPNlLPtd_Z1ntyz.jpg"},
+{"id":"246","file_id":"246","name":"1642444066_38-phonoteka-org-p-fon-igrovoi-minimalizm-krasivo-39.png","alias":"BkTkKrZB3d4mFYvcyzzmohdAKyVubg.png","src":"uploads\/BkTkKrZB3d4mFYvcyzzmohdAKyVubg.png"},
+{"id":"247","file_id":"247","name":"1602522-02.png","alias":"YWb7oX0NbY1A4eesBDu4xRcPrQKkI8.png","src":"uploads\/YWb7oX0NbY1A4eesBDu4xRcPrQKkI8.png"},
+{"id":"248","file_id":"248","name":"160522-05.png","alias":"n1h6qAZ15rXThMlFDKK7y19LCY-INH.png","src":"uploads\/n1h6qAZ15rXThMlFDKK7y19LCY-INH.png"},
+{"id":"249","file_id":"249","name":"160522-03.png","alias":"70LJ465n6EYGEmtnNQGeJzYZ8Zb0Kl.png","src":"uploads\/70LJ465n6EYGEmtnNQGeJzYZ8Zb0Kl.png"},
+{"id":"250","file_id":"250","name":"1602522-02.png","alias":"kbJkvCnoyMMQ63_-COFADbbr8kka-M.png","src":"uploads\/kbJkvCnoyMMQ63_-COFADbbr8kka-M.png"},
+{"id":"251","file_id":"251","name":"160522-01.png","alias":"fBx1VWgZVKlrlCKx-nGfAzMOUI_Q5l.png","src":"uploads\/fBx1VWgZVKlrlCKx-nGfAzMOUI_Q5l.png"},
+{"id":"252","file_id":"252","name":"160522-03.png","alias":"kKtPK2bOAs-zJLUhumYlw9Tp_nJ64_.png","src":"uploads\/kKtPK2bOAs-zJLUhumYlw9Tp_nJ64_.png"},
+{"id":"253","file_id":"253","name":"160522-04.png","alias":"wC5yB3aY6V6ZoANCtmocL4vn10Ffum.png","src":"uploads\/wC5yB3aY6V6ZoANCtmocL4vn10Ffum.png"},
+{"id":"254","file_id":"254","name":"-min.png","alias":"r-pZm_sV_q1pLlViM6mXGTRqyaPZUh.png","src":"uploads\/r-pZm_sV_q1pLlViM6mXGTRqyaPZUh.png"},
+{"id":"255","file_id":"255","name":"e1ede584456697.5d5d6e6ddc722.jpg","alias":"rXJEoR6KboZthFuQQyp3YXEk9T48mn.jpg","src":"uploads\/rXJEoR6KboZthFuQQyp3YXEk9T48mn.jpg"},
+{"id":"256","file_id":"256","name":"1642444066_38-phonoteka-org-p-fon-igrovoi-minimalizm-krasivo-39.png","alias":"ivk13ngoysNlPhwaqsTJ2dTvOTtmpY.png","src":"uploads\/ivk13ngoysNlPhwaqsTJ2dTvOTtmpY.png"},
+{"id":"257","file_id":"257","name":"ostx_01.png","alias":"C_jDivnfU0uShYEH9FXvemEGO5olzV.png","src":"uploads\/C_jDivnfU0uShYEH9FXvemEGO5olzV.png"},
+{"id":"258","file_id":"258","name":"1602522-02.png","alias":"N7at3-EKghwOLQEKCLHtDExUzlwrQ9.png","src":"uploads\/N7at3-EKghwOLQEKCLHtDExUzlwrQ9.png"},
+{"id":"259","file_id":"259","name":"1642444066_38-phonoteka-org-p-fon-igrovoi-minimalizm-krasivo-39.png","alias":"7PWMgfCX4bSuKd6yLJ4-pQTGzxVnoj.png","src":"uploads\/7PWMgfCX4bSuKd6yLJ4-pQTGzxVnoj.png"},
+{"id":"260","file_id":"260","name":"19.jpg","alias":"A-cix5EFtIGyWw_ofxXblUw3eUYj8y.jpg","src":"uploads\/A-cix5EFtIGyWw_ofxXblUw3eUYj8y.jpg"},
+{"id":"261","file_id":"261","name":"20.jpg","alias":"WTdrf5OitsByhAfrc1knWI_rKCT7TU.jpg","src":"uploads\/WTdrf5OitsByhAfrc1knWI_rKCT7TU.jpg"},
+{"id":"262","file_id":"262","name":"19.jpg","alias":"dMIqghSYpX4b3QQZ_9fa_DROMGdHkl.jpg","src":"uploads\/dMIqghSYpX4b3QQZ_9fa_DROMGdHkl.jpg"},
+{"id":"263","file_id":"263","name":"20.jpg","alias":"mIfTZHCATeQ_b4Vtkfihq5xELJNIij.jpg","src":"uploads\/mIfTZHCATeQ_b4Vtkfihq5xELJNIij.jpg"},
+{"id":"264","file_id":"264","name":"19.jpg","alias":"Mxvrgp6hf4210z67VSs6gdb_EB8GB7.jpg","src":"uploads\/Mxvrgp6hf4210z67VSs6gdb_EB8GB7.jpg"},
+{"id":"265","file_id":"265","name":"20.jpg","alias":"XNZqZTW3RAqv6YseJljBj4Dwa3RoRI.jpg","src":"uploads\/XNZqZTW3RAqv6YseJljBj4Dwa3RoRI.jpg"},
+{"id":"266","file_id":"266","name":"19.jpg","alias":"iM1HGDHKRTLqGVg5jDzKhEqrssonGD.jpg","src":"uploads\/iM1HGDHKRTLqGVg5jDzKhEqrssonGD.jpg"},
+{"id":"267","file_id":"267","name":"20.jpg","alias":"VwrZAroT3xlJwReVPxuuMuR7_ppZbf.jpg","src":"uploads\/VwrZAroT3xlJwReVPxuuMuR7_ppZbf.jpg"},
+{"id":"268","file_id":"268","name":"04.jpg","alias":"R6oKkIaWtzomHSlVzNFwni18bsB-XE.jpg","src":"uploads\/R6oKkIaWtzomHSlVzNFwni18bsB-XE.jpg"},
+{"id":"269","file_id":"269","name":"07.jpg","alias":"W9VGI164G2zU1QGiJIn66xgMKbHwhI.jpg","src":"uploads\/W9VGI164G2zU1QGiJIn66xgMKbHwhI.jpg"},
+{"id":"270","file_id":"270","name":"08.jpg","alias":"yBSCJuacoHR7Vp4UAhQky1mhvH8wqD.jpg","src":"uploads\/yBSCJuacoHR7Vp4UAhQky1mhvH8wqD.jpg"},
+{"id":"271","file_id":"271","name":"16.jpg","alias":"QMom7nVoeUEgw089WefxDgzl8SOy6a.jpg","src":"uploads\/QMom7nVoeUEgw089WefxDgzl8SOy6a.jpg"},
+{"id":"272","file_id":"272","name":"18.jpg","alias":"qFKcYtVRz43K0b1at7HwwA-dPacfWs.jpg","src":"uploads\/qFKcYtVRz43K0b1at7HwwA-dPacfWs.jpg"},
+{"id":"273","file_id":"273","name":"21.jpg","alias":"BfNfsZGe01xc8BjtEZDZjaOIT4xnGV.jpg","src":"uploads\/BfNfsZGe01xc8BjtEZDZjaOIT4xnGV.jpg"},
+{"id":"274","file_id":"274","name":"20.jpg","alias":"5_-OO493jeI__kC_2FMSvU41hx5abI.jpg","src":"uploads\/5_-OO493jeI__kC_2FMSvU41hx5abI.jpg"},
+{"id":"275","file_id":"275","name":"08.jpg","alias":"P_4KYkeiuS6KnzN_FL_QmRPeRSGvKt.jpg","src":"uploads\/P_4KYkeiuS6KnzN_FL_QmRPeRSGvKt.jpg"},
+{"id":"276","file_id":"276","name":"25.jpg","alias":"OLU___cOmyEI2m_m1gBkerpeH6FmaT.jpg","src":"uploads\/OLU___cOmyEI2m_m1gBkerpeH6FmaT.jpg"},
+{"id":"277","file_id":"277","name":"22.jpg","alias":"1lQlglIaooCYXZQpdlrLz0abQz_MIB.jpg","src":"uploads\/1lQlglIaooCYXZQpdlrLz0abQz_MIB.jpg"},
+{"id":"278","file_id":"278","name":"тестовый жокуменит в PDF.pdf","alias":"W1UKEemA_OinOZQUvvzMSQkM-KPWgr.pdf","src":"uploads\/W1UKEemA_OinOZQUvvzMSQkM-KPWgr.pdf"},
+{"id":"279","file_id":"279","name":"тестовый жокуменит в PDF.pdf","alias":"aphDfXteRRmiz84beikGVlZnQeDoe_.pdf","src":"uploads\/aphDfXteRRmiz84beikGVlZnQeDoe_.pdf"},
+{"id":"280","file_id":"280","name":"тестовый жокуменит в PDF.pdf","alias":"roWCRA4-h_1ZmKTwJdhA8QMZlk6TXG.pdf","src":"uploads\/roWCRA4-h_1ZmKTwJdhA8QMZlk6TXG.pdf"},
+{"id":"281","file_id":"281","name":"тестовый жокуменит в PDF.pdf","alias":"F0sqYFECYsqyCZed4j9InhZoANMYcz.pdf","src":"uploads\/F0sqYFECYsqyCZed4j9InhZoANMYcz.pdf"},
+{"id":"282","file_id":"282","name":"образец договора оферты.pdf","alias":"O466cSle0YHOvsgomuXBRXifAnGA1W.pdf","src":"uploads\/O466cSle0YHOvsgomuXBRXifAnGA1W.pdf"},
+{"id":"283","file_id":"283","name":"Сайт АВЦ.docx","alias":"Ojav-GDAPnw-7vHJbxH0GLF94g5aPn.docx","src":"uploads\/Ojav-GDAPnw-7vHJbxH0GLF94g5aPn.docx"},
+{"id":"284","file_id":"284","name":"Ojav-GDAPnw-7vHJbxH0GLF94g5aPn.docx","alias":"xeMV1SLVnhxJqrEZOnSy0ZV-tutbMH.docx","src":"uploads\/xeMV1SLVnhxJqrEZOnSy0ZV-tutbMH.docx"},
+{"id":"285","file_id":"285","name":"образец договора оферты.pdf","alias":"hRB-2MZ2ezUebgpLFkN6gokKRSgpES.pdf","src":"uploads\/hRB-2MZ2ezUebgpLFkN6gokKRSgpES.pdf"},
+{"id":"286","file_id":"286","name":"Сайт АВЦ.docx","alias":"_KowVp0I5VnpErdSIpT_WS-3Av8L-C.docx","src":"uploads\/_KowVp0I5VnpErdSIpT_WS-3Av8L-C.docx"},
+{"id":"287","file_id":"287","name":"образец договора оферты.pdf","alias":"JtmZ1pmHVWWuut2_bL98pkV3pDjGVD.pdf","src":"uploads\/JtmZ1pmHVWWuut2_bL98pkV3pDjGVD.pdf"},
+{"id":"288","file_id":"288","name":"образец договора оферты.pdf","alias":"AZfbEGoUbOOCyoqLpeR3JnE-CaUQcy.pdf","src":"uploads\/AZfbEGoUbOOCyoqLpeR3JnE-CaUQcy.pdf"},
+{"id":"289","file_id":"289","name":"образец договора оферты.pdf","alias":"d6ZHDl89WsKOlkerEY0hAso46-1g-V.pdf","src":"uploads\/d6ZHDl89WsKOlkerEY0hAso46-1g-V.pdf"},
+{"id":"290","file_id":"290","name":"образец договора оферты.pdf","alias":"xtkYI4opAT-ItqAKVmdqBV1yOaMvIr.pdf","src":"uploads\/xtkYI4opAT-ItqAKVmdqBV1yOaMvIr.pdf"},
+{"id":"291","file_id":"291","name":"образец договора оферты.pdf","alias":"M-Tq0ICJeXD-lN7xYZR9Fn3tLKiTkU.pdf","src":"uploads\/M-Tq0ICJeXD-lN7xYZR9Fn3tLKiTkU.pdf"},
+{"id":"292","file_id":"292","name":"образец договора оферты.pdf","alias":"exgJC7YxG7ghl00yosoX1B9I7-ij6p.pdf","src":"uploads\/exgJC7YxG7ghl00yosoX1B9I7-ij6p.pdf"},
+{"id":"293","file_id":"293","name":"Сайт АВЦ.docx","alias":"I7E5iy5TqbDnP6_JGkedGMwgUHI4vm.docx","src":"uploads\/I7E5iy5TqbDnP6_JGkedGMwgUHI4vm.docx"},
+{"id":"294","file_id":"294","name":"образец договора оферты.pdf","alias":"TnMpepaLQ0fffSbI1EOuLon8tYrzLw.pdf","src":"uploads\/TnMpepaLQ0fffSbI1EOuLon8tYrzLw.pdf"},
+{"id":"295","file_id":"295","name":"praktika_uchebnaya_texnologicheskaya_proekt-texnolog_09_03_02_sem_4_new (1).docx","alias":"oQPN_siVwDEY33iqVjPbDTUH57aX9t.docx","src":"uploads\/oQPN_siVwDEY33iqVjPbDTUH57aX9t.docx"},
+{"id":"296","file_id":"296","name":"products-2022-07-15.xlsx","alias":"mC0WumdXM5UKA1wXS24tLSq2zRXn1a.xlsx","src":"uploads\/mC0WumdXM5UKA1wXS24tLSq2zRXn1a.xlsx"},
+{"id":"297","file_id":"297","name":"products-2022-07-14.xlsx","alias":"3oSidP1qrbpsZ_aNJ90Fy6Z6lj1136.xlsx","src":"uploads\/3oSidP1qrbpsZ_aNJ90Fy6Z6lj1136.xlsx"},
+{"id":"298","file_id":"298","name":"образец договора оферты.pdf","alias":"xTInVTutBsrJLMN-9ZsjCt2IprDHMO.pdf","src":"uploads\/xTInVTutBsrJLMN-9ZsjCt2IprDHMO.pdf"},
+{"id":"299","file_id":"299","name":"тестовый жокуменит в PDF.pdf","alias":"3FFpl9CbFSi5Morcgl1pfyCserxXub.pdf","src":"uploads\/3FFpl9CbFSi5Morcgl1pfyCserxXub.pdf"},
+{"id":"300","file_id":"300","name":"тестовый жокуменит в PDF.pdf","alias":"il0NJOWOgIbabTqid0O6kE2i3rFXgL.pdf","src":"uploads\/il0NJOWOgIbabTqid0O6kE2i3rFXgL.pdf"},
+{"id":"301","file_id":"301","name":"образец договора оферты.pdf","alias":"q3zHojC_b0ID0D3PSvwsDGtZDWFjDt.pdf","src":"uploads\/q3zHojC_b0ID0D3PSvwsDGtZDWFjDt.pdf"},
+{"id":"302","file_id":"302","name":"образец договора оферты.pdf","alias":"Z0QWbOVziU_ajYTjP550gT6SVIa50P.pdf","src":"uploads\/Z0QWbOVziU_ajYTjP550gT6SVIa50P.pdf"},
+{"id":"303","file_id":"303","name":"products-2022-08-16.xlsx","alias":"C63Bai1oQq2xhRywuZKckb4gazRrwR.xlsx","src":"uploads\/C63Bai1oQq2xhRywuZKckb4gazRrwR.xlsx"},
+{"id":"304","file_id":"304","name":"тестовый жокуменит в PDF.pdf","alias":"4zl0NnnvliWNrhd9CQsuhWj6kXX6gt.pdf","src":"uploads\/4zl0NnnvliWNrhd9CQsuhWj6kXX6gt.pdf"},
+{"id":"305","file_id":"305","name":"тестовый жокуменит в PDF.pdf","alias":"HiJQ-B_k4_OufNxIaV5mFMJs6i_ZFA.pdf","src":"uploads\/HiJQ-B_k4_OufNxIaV5mFMJs6i_ZFA.pdf"},
+{"id":"306","file_id":"306","name":"тестовый жокуменит в PDF.pdf","alias":"Hb4C9ke5cADMghJMRnPs3P6UvNKxKf.pdf","src":"uploads\/Hb4C9ke5cADMghJMRnPs3P6UvNKxKf.pdf"},
+{"id":"307","file_id":"307","name":"тестовый жокуменит в PDF.pdf","alias":"T4ziEe9qevY4s7EpVZIt34vg0F8o0d.pdf","src":"uploads\/T4ziEe9qevY4s7EpVZIt34vg0F8o0d.pdf"},
+{"id":"308","file_id":"308","name":"тестовый жокуменит в PDF.pdf","alias":"DuaRIz3zW4sK5eSLtYnxqV8342ZOG1.pdf","src":"uploads\/DuaRIz3zW4sK5eSLtYnxqV8342ZOG1.pdf"},
+{"id":"309","file_id":"309","name":"тестовый жокуменит в PDF.pdf","alias":"Tq6uj_YTbY1P_wELDqiMTje8j1sCTZ.pdf","src":"uploads\/Tq6uj_YTbY1P_wELDqiMTje8j1sCTZ.pdf"},
+{"id":"310","file_id":"310","name":"тестовый жокуменит в PDF.pdf","alias":"H6fkKAkj4culkoI045qKS7uWgbvT55.pdf","src":"uploads\/H6fkKAkj4culkoI045qKS7uWgbvT55.pdf"},
+{"id":"311","file_id":"311","name":"образец договора оферты.pdf","alias":"03JtCTgO1CIt3qYQkCdKC-C1PfiVTg.pdf","src":"uploads\/03JtCTgO1CIt3qYQkCdKC-C1PfiVTg.pdf"},
+{"id":"312","file_id":"312","name":"образец договора оферты.pdf","alias":"KvMVUFV7JmBy1wMEl7TpNJcL76vqvW.pdf","src":"uploads\/KvMVUFV7JmBy1wMEl7TpNJcL76vqvW.pdf"},
+{"id":"313","file_id":"313","name":"образец договора оферты.pdf","alias":"jrQ2O99qNnnb3zIXncLQmbu0Sky-Zc.pdf","src":"uploads\/jrQ2O99qNnnb3zIXncLQmbu0Sky-Zc.pdf"},
+{"id":"314","file_id":"314","name":"образец договора оферты.pdf","alias":"KacqtltGt-PqDUSI30RcuICm1v9O-b.pdf","src":"uploads\/KacqtltGt-PqDUSI30RcuICm1v9O-b.pdf"},
+{"id":"315","file_id":"315","name":"образец договора оферты.pdf","alias":"2nl8uwLqQlNnGNAwsGSFPDFMy_NAm8.pdf","src":"uploads\/2nl8uwLqQlNnGNAwsGSFPDFMy_NAm8.pdf"},
+{"id":"316","file_id":"316","name":"образец договора оферты.pdf","alias":"AAel3enGowgB2d4J1pZJSXOCSVKHAO.pdf","src":"uploads\/AAel3enGowgB2d4J1pZJSXOCSVKHAO.pdf"},
+{"id":"317","file_id":"317","name":"products-2022-07-15.xlsx","alias":"iTM0n71FOByx0PGpjg4aPr9wHbfJwg.xlsx","src":"uploads\/iTM0n71FOByx0PGpjg4aPr9wHbfJwg.xlsx"},
+{"id":"318","file_id":"318","name":"praktika_uchebnaya_texnologicheskaya_proekt-texnolog_09_03_02_sem_4_new.docx","alias":"zq5muWovhN8uDX0eCGDZiavoJ6jet2.docx","src":"uploads\/zq5muWovhN8uDX0eCGDZiavoJ6jet2.docx"},
+{"id":"319","file_id":"319","name":"образец договора оферты.pdf","alias":"yVt8p8TlU6RvqEIKK227LRHiYtlTwy.pdf","src":"uploads\/yVt8p8TlU6RvqEIKK227LRHiYtlTwy.pdf"},
+{"id":"320","file_id":"320","name":"образец договора оферты.pdf","alias":"jZuj-Ws4hvglOKxexyWLa4kIDxq4_B.pdf","src":"uploads\/jZuj-Ws4hvglOKxexyWLa4kIDxq4_B.pdf"},
+{"id":"321","file_id":"321","name":"образец договора оферты.pdf","alias":"56ACMz-VvtftRl4Ewg9Qbokrq5cb6s.pdf","src":"uploads\/56ACMz-VvtftRl4Ewg9Qbokrq5cb6s.pdf"},
+{"id":"322","file_id":"322","name":"образец договора оферты.pdf","alias":"BcFlhIslXop1Fes88eKVvVuYGpe-vh.pdf","src":"uploads\/BcFlhIslXop1Fes88eKVvVuYGpe-vh.pdf"},
+{"id":"323","file_id":"323","name":"products-2022-07-15.xlsx","alias":"ZqMQtv8YPMJHekh3BkL6ck5bujv7o-.xlsx","src":"uploads\/ZqMQtv8YPMJHekh3BkL6ck5bujv7o-.xlsx"},
+{"id":"324","file_id":"324","name":"products-2022-07-14.xlsx","alias":"lI5plTuLJgG9L7sEHd-tursSZFOXQU.xlsx","src":"uploads\/lI5plTuLJgG9L7sEHd-tursSZFOXQU.xlsx"},
+{"id":"325","file_id":"325","name":"образец договора оферты.pdf","alias":"x3RGyq9GdZi3UQZZgu4lizcvbfs9xM.pdf","src":"uploads\/x3RGyq9GdZi3UQZZgu4lizcvbfs9xM.pdf"},
+{"id":"326","file_id":"326","name":"dogovor-oferti.doc","alias":"X_LP_eTaBXBhmARc0zBGqTmft04cbx.doc","src":"uploads\/X_LP_eTaBXBhmARc0zBGqTmft04cbx.doc"},
+{"id":"327","file_id":"327","name":"jquery-mousewheel-3.1.13.zip","alias":"yoWpMB5urHmh4ajiTS4hRDDCPdQaBD.zip","src":"uploads\/yoWpMB5urHmh4ajiTS4hRDDCPdQaBD.zip"},
+{"id":"328","file_id":"328","name":"yarn-1.22.19.msi","alias":"FDU_X-a4j9dUiBbRk5471UoXkcqecR.msi","src":"uploads\/FDU_X-a4j9dUiBbRk5471UoXkcqecR.msi"},
+{"id":"329","file_id":"329","name":"Famous businesspeople.pdf","alias":"96LT57JkNWCzQau94qwtH84TS8z1AB.pdf","src":"uploads\/96LT57JkNWCzQau94qwtH84TS8z1AB.pdf"},
+{"id":"330","file_id":"330","name":"Famous businesspeople.pdf","alias":"_QZ6UHYFiY2-SaMZB3lmkGFDbWzb8e.pdf","src":"uploads\/_QZ6UHYFiY2-SaMZB3lmkGFDbWzb8e.pdf"},
+{"id":"331","file_id":"331","name":"Famous businesspeople.pdf","alias":"zqnN6ZNIPaKeTnKbIJR8ZWwFaNmGaI.pdf","src":"uploads\/zqnN6ZNIPaKeTnKbIJR8ZWwFaNmGaI.pdf"}
+]
+}
+,{"type":"table","name":"footerbar","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"footerbar_content","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"gallery","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"gallery_content","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"gallery_items","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"honor","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"honor_content","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"information","database":"nngp","data":
+[
+{"id":"1","user_id":"1","date_add":"2022-08-23 19:08:57","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"2","user_id":"1","date_add":"2022-08-23 19:08:57","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"3","user_id":"3","date_add":"2022-08-23 19:08:57","date_update":null,"date_remove":null,"status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"information_content","database":"nngp","data":
+[
+{"id":"1","information_id":"1","title":"Новый сотруднику","src":"test"},
+{"id":"2","information_id":"2","title":"Образец договора","src":"test"},
+{"id":"3","information_id":"3","title":"Новый документ","src":"test"}
+]
+}
+,{"type":"table","name":"initiative","database":"nngp","data":
+[
+{"id":"1","user_id":"1","department_id":"2","status_id":"2","category_id":"1","date_add":"2022-09-11 17:23:05","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"2","user_id":"1","department_id":"2","status_id":"5","category_id":"2","date_add":"2022-09-11 18:15:02","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"5","user_id":"1","department_id":"1","status_id":"7","category_id":"5","date_add":"2022-09-12 07:47:32","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"6","user_id":"1","department_id":"1","status_id":"3","category_id":"1","date_add":"2022-09-12 07:50:27","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"8","user_id":"3","department_id":"1","status_id":"1","category_id":"1","date_add":"2022-09-12 07:54:15","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"9","user_id":"1","department_id":"2","status_id":"1","category_id":"1","date_add":"2022-09-13 09:48:16","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"10","user_id":"1","department_id":"2","status_id":"1","category_id":"2","date_add":"2022-09-13 09:48:53","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"11","user_id":"1","department_id":"2","status_id":"1","category_id":"3","date_add":"2022-09-13 09:50:40","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"12","user_id":"3","department_id":"1","status_id":"1","category_id":"5","date_add":"2022-09-13 09:51:04","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"13","user_id":"1","department_id":"1","status_id":"1","category_id":"4","date_add":"2022-09-13 09:51:27","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"14","user_id":"1","department_id":"2","status_id":"1","category_id":"2","date_add":"2022-09-13 09:51:54","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"15","user_id":"1","department_id":"1","status_id":"1","category_id":"1","date_add":"2022-09-13 09:56:10","date_update":null,"date_remove":null,"status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"initiative_category","database":"nngp","data":
+[
+{"id":"1","name":"Улучшение процессов","status":"1","status_delete":"0"},
+{"id":"2","name":"Снижение затрат","status":"1","status_delete":"0"},
+{"id":"3","name":"Сокращение потерь","status":"1","status_delete":"0"},
+{"id":"4","name":"Улучшение качества проектной продукции","status":"1","status_delete":"0"},
+{"id":"5","name":"Экономия ресурсов","status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"initiative_content","database":"nngp","data":
+[
+{"id":"1","initiative_id":"1","title":"Разработка автоматизированной программы в «Microsoft Excel» для упрощения задачи при выборе и подсчете количества крепежа сотрудникам","problem_text":"После оценки трудозатрат, потраченных на выполнение подбора крепежных \nэлементов для трубопроводной арматуры было принято решение о разработке \nавтоматизированной программы в «Microsoft Excel».","solution_text":"Было принято решение о разработке автоматизированной программы в «Microsoft Excel»","effect_text":"Данная программа упростит задачу при выборе и подсчете количества крепежа сотрудникам, а также исключит ошибки, связанные с человеческим фактором при выполнении последующих аналогичных проектов. 180 000 руб.\/120 чел\/час","effect_meta":null,"response_text":"Использование компьютера требует специальных навыков. Людей, достигших в этом мастерства, иногда называют «хакерами». Обычно хакер – это человек, который создаёт программное обеспечение на специальном компьютерном языке. Но слово «хакер» также применимо к человеку, который пытается украсть информацию из компьютерных систем.","amount_rewarded":null,"contacts":"000-00-00"},
+{"id":"2","initiative_id":"2","title":"Благородные стремления не спасут: преступность никогда не была такой неорганизованной!","problem_text":"Но действия представителей оппозиции призывают нас к новым свершениям, которые, в свою очередь, должны быть заблокированы в рамках своих собственных рациональных ограничений! Ясность нашей позиции очевидна: глубокий уровень погружения не оставляет шанса для дальнейших направлений развития.","solution_text":"Картельные сговоры не допускают ситуации, при которой многие известные личности объявлены нарушающими общечеловеческие нормы этики и морали. Предварительные выводы неутешительны: начало повседневной работы по формированию позиции требует определения и уточнения направлений прогрессивного развития.","effect_text":"Наше дело не так однозначно, как может показаться: сложившаяся структура организации предоставляет широкие возможности для приоретизации разума над эмоциями. Повседневная практика показывает, что социально-экономическое развитие способствует подготовке и реализации новых предложений.","effect_meta":"180 000 руб.\/\n120 чел\/час","response_text":"Добрый день! Необходимо доработать концепцию после чего руководство рассмотрит данную инициативу.","amount_rewarded":"15000","contacts":"balabaev@ideait.ru"},
+{"id":"5","initiative_id":"5","title":"Копировать Использование компьютера требует специальных навыков.","problem_text":"Компьютер стал неотъемлемой частью жизни человека. Это обязательный инструмент развития человека. Каждая большая и малая промышленность компьютеризирована. Компьютеры выполнять свою работу эффективно, быстро и продуктивно. Без сомнений, они сделали нашу жизнь намного легче.","solution_text":"Компьютеры коренным образом изменили жизнь каждого человека. Несколько десятилетий назад люди даже не знали ничего об этих электронных устройствах, тогда как в наши дни даже маленький ребенок может управлять этой машиной. Почти все современные технологии зависит от компьютеров, которые используются для хранения данных: файлов, секретной информации, банковских операций и прочего.","effect_text":"Маленькие дети больше всего подвержены риску. Сейчас они часто остаются без присмотра. Поэтому они много времени проводят за монитором компьютера, играют в компьютерные игры, смотрят видео или просто сидят в Интернете. В результате дети не развиваются физически. Они не проводят время на свежем воздухе, не занимаются спортом и не играют в игры. Позже им становится трудно общаться с другими людьми в живую, потому что они не имеют необходимых коммуникативных и социальных навыков.\n\n","effect_meta":null,"response_text":null,"amount_rewarded":null,"contacts":"123-45-56"},
+{"id":"6","initiative_id":"6","title":"Компьютерные технологии стали неотъемлемой частью жизни людей.","problem_text":"Маленькие дети больше всего подвержены риску. Сейчас они часто остаются без присмотра. Поэтому они много времени проводят за монитором компьютера, играют в компьютерные игры, смотрят видео или просто сидят в Интернете. В результате дети не развиваются физически. Они не проводят время на свежем воздухе, не занимаются спортом и не играют в игры. Позже им становится трудно общаться с другими людьми в живую, потому что они не имеют необходимых коммуникативных и социальных навыков.","solution_text":"Интересно, что первый компьютер был размером с микроавтобус и весил почти тонну. В то время как сейчас это может быть маленький чип размером с булавку. И компьютерные технологии не стоят на месте, она быстро прогрессируют.","effect_text":"Использование компьютера требует специальных навыков. Людей, достигших в этом мастерства, иногда называют «хакерами». Обычно хакер – это человек, который создаёт программное обеспечение на специальном компьютерном языке. Но слово «хакер» также применимо к человеку, который пытается украсть информацию из компьютерных систем.\n\n","effect_meta":null,"response_text":"Политика компании не приемлют таких действий!","amount_rewarded":null,"contacts":"123-45-56"},
+{"id":"8","initiative_id":"8","title":"Использование компьютера требует специальных навыков. Людей, достигших в этом мастерства, иногда называют «хакерами».","problem_text":"Многие люди, работа которых связана с компьютерами жалуются на проблемы со здоровьем, такие как головная боль, заболевания кисти, боли в спине, плохое зрение. Кроме того, проводя много времени за компьютером, начинаем чрезмерно питаться, что в свою очередь приводит к ожирению.","solution_text":"Многие люди, работа которых связана с компьютерами жалуются на проблемы со здоровьем, такие как головная боль, заболевания кисти, боли в спине, плохое зрение. Кроме того, проводя много времени за компьютером, начинаем чрезмерно питаться, что в свою очередь приводит к ожирению.","effect_text":"Многие люди, работа которых связана с компьютерами жалуются на проблемы со здоровьем, такие как головная боль, заболевания кисти, боли в спине, плохое зрение. Кроме того, проводя много времени за компьютером, начинаем чрезмерно питаться, что в свою очередь приводит к ожирению. \n\n","effect_meta":null,"response_text":null,"amount_rewarded":null,"contacts":"123-45-56"},
+{"id":"9","initiative_id":"9","title":"Внезапно, средства индивидуальной защиты оказались бесполезны","problem_text":"Однозначно, реплицированные с зарубежных источников, современные исследования, которые представляют собой яркий пример континентально-европейского типа политической культуры, будут преданы социально-демократической анафеме. В своём стремлении повысить качество жизни, они забывают, что сплочённость команды профессионалов не даёт нам иного выбора, кроме определения своевременного выполнения сверхзадачи! Как принято считать, сторонники тоталитаризма в науке ограничены исключительно образом мышления.","solution_text":"Однозначно, реплицированные с зарубежных источников, современные исследования, которые представляют собой яркий пример континентально-европейского типа политической культуры, будут преданы социально-демократической анафеме. В своём стремлении повысить качество жизни, они забывают, что сплочённость команды профессионалов не даёт нам иного выбора, кроме определения своевременного выполнения сверхзадачи! Как принято считать, сторонники тоталитаризма в науке ограничены исключительно образом мышления.","effect_text":"Однозначно, реплицированные с зарубежных источников, современные исследования, которые представляют собой яркий пример континентально-европейского типа политической культуры, будут преданы социально-демократической анафеме. В своём стремлении повысить качество жизни, они забывают, что сплочённость команды профессионалов не даёт нам иного выбора, кроме определения своевременного выполнения сверхзадачи! Как принято считать, сторонники тоталитаризма в науке ограничены исключительно образом мышления.","effect_meta":null,"response_text":null,"amount_rewarded":null,"contacts":"123"},
+{"id":"10","initiative_id":"10","title":"Новая модель организационной деятельности расставила все точки над i","problem_text":"Новая модель организационной деятельности расставила все точки над i","solution_text":"Новая модель организационной деятельности расставила все точки над i","effect_text":"Новая модель организационной деятельности расставила все точки над i","effect_meta":null,"response_text":null,"amount_rewarded":null,"contacts":"123"},
+{"id":"11","initiative_id":"11","title":"Тяжёлое машиностроение — это вам не песнь светлого будущего","problem_text":"Тяжёлое машиностроение — это вам не песнь светлого будущего","solution_text":"Тяжёлое машиностроение — это вам не песнь светлого будущего","effect_text":"Тяжёлое машиностроение — это вам не песнь светлого будущего","effect_meta":null,"response_text":null,"amount_rewarded":null,"contacts":"1231515"},
+{"id":"12","initiative_id":"12","title":"Британские «ученые» заявили, что парад бытовой техники оказался началом великой войны","problem_text":"Британские «ученые» заявили, что парад бытовой техники оказался началом великой войны","solution_text":"Британские «ученые» заявили, что парад бытовой техники оказался началом великой войны","effect_text":"Британские «ученые» заявили, что парад бытовой техники оказался началом великой войны","effect_meta":null,"response_text":null,"amount_rewarded":null,"contacts":"21213"},
+{"id":"13","initiative_id":"13","title":"Только кровь стынет в жилах","problem_text":"Только кровь стынет в жилах","solution_text":"Только кровь стынет в жилах","effect_text":"Только кровь стынет в жилах","effect_meta":null,"response_text":null,"amount_rewarded":null,"contacts":"211242"},
+{"id":"14","initiative_id":"14","title":"Нет звука приятнее, чем трубный призыв","problem_text":"Нет звука приятнее, чем трубный призыв","solution_text":"Нет звука приятнее, чем трубный призыв","effect_text":"Нет звука приятнее, чем трубный призыв","effect_meta":null,"response_text":null,"amount_rewarded":null,"contacts":"321312431"},
+{"id":"15","initiative_id":"15","title":"Давайте разбираться: чистый разум не скован границами","problem_text":"Давайте разбираться: чистый разум не скован границами","solution_text":"Давайте разбираться: чистый разум не скован границами","effect_text":"Давайте разбираться: чистый разум не скован границами","effect_meta":null,"response_text":null,"amount_rewarded":null,"contacts":"213"}
+]
+}
+,{"type":"table","name":"initiative_status","database":"nngp","data":
+[
+{"id":"1","name":"Зарегистрировано","color":"#78716c","status":"1","status_delete":"0"},
+{"id":"2","name":"Бюджет следующего года","color":"#14b8a6","status":"1","status_delete":"0"},
+{"id":"3","name":"Нецелесообразно","color":"#ef4444","status":"1","status_delete":"0"},
+{"id":"4","name":"Передано на доработку","color":"#eab308","status":"1","status_delete":"0"},
+{"id":"5","name":"Выполнено","color":"#22c55e","status":"1","status_delete":"0"},
+{"id":"6","name":"Принято к реализации (выполнению)","color":"#22c55e","status":"1","status_delete":"0"},
+{"id":"7","name":"На рассмотрении","color":"#3b82f6","status":"1","status_delete":"0"},
+{"id":"8","name":"Другое решение","color":"#64748b","status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"initiative_supportive","database":"nngp","data":
+[
+{"id":"2","initiative_id":"1","user_id":"0"},
+{"id":"3","initiative_id":"2","user_id":"3"},
+{"id":"6","initiative_id":"5","user_id":"0"},
+{"id":"7","initiative_id":"6","user_id":"0"},
+{"id":"8","initiative_id":"8","user_id":"0"},
+{"id":"9","initiative_id":"9","user_id":"0"},
+{"id":"10","initiative_id":"10","user_id":"3"},
+{"id":"11","initiative_id":"11","user_id":"0"},
+{"id":"12","initiative_id":"12","user_id":"0"},
+{"id":"13","initiative_id":"13","user_id":"0"},
+{"id":"14","initiative_id":"14","user_id":"0"},
+{"id":"15","initiative_id":"15","user_id":"0"}
+]
+}
+,{"type":"table","name":"logs","database":"nngp","data":
+[
+{"id":"299","data_core":"initiative","data_key":"view-regedit-initiative","data_log":"Onload pagination","user_id":"1","date_add":"2022-09-13 19:51:57","success":"1","error":"false"},
+{"id":"300","data_core":"initiative","data_key":"view-regedit-initiative","data_log":"Onload pagination","user_id":"1","date_add":"2022-09-13 19:52:43","success":"1","error":"false"},
+{"id":"301","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет","user_id":"1","date_add":"2022-09-13 19:52:45","success":"1","error":"false"},
+{"id":"302","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет","user_id":"1","date_add":"2022-09-13 19:52:45","success":"1","error":"false"},
+{"id":"303","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет з","user_id":"1","date_add":"2022-09-13 19:52:47","success":"1","error":"false"},
+{"id":"304","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет зв","user_id":"1","date_add":"2022-09-13 19:52:47","success":"1","error":"false"},
+{"id":"305","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет звк","user_id":"1","date_add":"2022-09-13 19:52:47","success":"1","error":"false"},
+{"id":"306","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет зву","user_id":"1","date_add":"2022-09-13 19:52:48","success":"1","error":"false"},
+{"id":"307","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет зву","user_id":"1","date_add":"2022-09-13 19:52:48","success":"1","error":"false"},
+{"id":"308","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет звук","user_id":"1","date_add":"2022-09-13 19:52:48","success":"1","error":"false"},
+{"id":"309","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет звук","user_id":"1","date_add":"2022-09-13 19:52:49","success":"1","error":"false"},
+{"id":"310","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет звук","user_id":"1","date_add":"2022-09-13 19:52:50","success":"1","error":"false"},
+{"id":"311","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет звук","user_id":"1","date_add":"2022-09-13 19:52:50","success":"1","error":"false"},
+{"id":"312","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет звук","user_id":"1","date_add":"2022-09-13 19:52:50","success":"1","error":"false"},
+{"id":"313","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет звук","user_id":"1","date_add":"2022-09-13 19:52:51","success":"1","error":"false"},
+{"id":"314","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет звук","user_id":"1","date_add":"2022-09-13 19:52:51","success":"1","error":"false"},
+{"id":"315","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет звук","user_id":"1","date_add":"2022-09-13 19:52:52","success":"1","error":"false"},
+{"id":"316","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Нет звук","user_id":"1","date_add":"2022-09-13 19:52:52","success":"1","error":"false"},
+{"id":"317","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Тол","user_id":"1","date_add":"2022-09-13 19:52:55","success":"1","error":"false"},
+{"id":"318","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Тольк","user_id":"1","date_add":"2022-09-13 19:52:55","success":"1","error":"false"},
+{"id":"319","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Тольк","user_id":"1","date_add":"2022-09-13 19:52:55","success":"1","error":"false"},
+{"id":"320","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - Только","user_id":"1","date_add":"2022-09-13 19:52:55","success":"1","error":"false"},
+{"id":"321","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - вне","user_id":"1","date_add":"2022-09-13 19:52:58","success":"1","error":"false"},
+{"id":"322","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - внез","user_id":"1","date_add":"2022-09-13 19:52:59","success":"1","error":"false"},
+{"id":"323","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data - внеза","user_id":"1","date_add":"2022-09-13 19:53:00","success":"1","error":"false"},
+{"id":"324","data_core":"initiative","data_key":"sort-initiative","data_log":"Sorting data - Бал","user_id":"1","date_add":"2022-09-13 19:53:08","success":"1","error":"false"},
+{"id":"325","data_core":"initiative","data_key":"sort-initiative","data_log":"Sorting data - Бал","user_id":"1","date_add":"2022-09-13 19:53:08","success":"1","error":"false"},
+{"id":"326","data_core":"initiative","data_key":"sort-initiative","data_log":"Sorting data - Бала","user_id":"1","date_add":"2022-09-13 19:53:08","success":"1","error":"false"},
+{"id":"327","data_core":"initiative","data_key":"sort-initiative","data_log":"Sorting data - Балаб","user_id":"1","date_add":"2022-09-13 19:53:08","success":"1","error":"false"},
+{"id":"328","data_core":"initiative","data_key":"sort-initiative","data_log":"Sorting data - Балаба","user_id":"1","date_add":"2022-09-13 19:53:09","success":"1","error":"false"},
+{"id":"329","data_core":"initiative","data_key":"view-regedit-initiative","data_log":"Onload pagination","user_id":"1","date_add":"2022-09-13 19:53:30","success":"1","error":"false"},
+{"id":"330","data_core":"initiative","data_key":"sort-initiative","data_log":"Sorting data - Мос","user_id":"1","date_add":"2022-09-13 19:53:32","success":"1","error":"false"},
+{"id":"331","data_core":"initiative","data_key":"view-regedit-initiative","data_log":"Onload pagination","user_id":"1","date_add":"2022-09-13 19:53:54","success":"1","error":"false"},
+{"id":"332","data_core":"initiative","data_key":"sort-initiative","data_log":"Sorting data - Vjc","user_id":"1","date_add":"2022-09-13 19:53:56","success":"1","error":"false"},
+{"id":"333","data_core":"initiative","data_key":"sort-initiative","data_log":"Sorting data - Vjc","user_id":"1","date_add":"2022-09-13 19:53:58","success":"1","error":"false"},
+{"id":"334","data_core":"initiative","data_key":"sort-initiative","data_log":"Sorting data - Vjcr","user_id":"1","date_add":"2022-09-13 19:53:58","success":"1","error":"false"},
+{"id":"335","data_core":"initiative","data_key":"sort-initiative","data_log":"Sorting data - Vjc","user_id":"1","date_add":"2022-09-13 19:53:59","success":"1","error":"false"},
+{"id":"336","data_core":"initiative","data_key":"sort-initiative","data_log":"Sorting data - Мос","user_id":"1","date_add":"2022-09-13 19:54:00","success":"1","error":"false"},
+{"id":"337","data_core":"initiative","data_key":"view-regedit-initiative","data_log":"Onload pagination","user_id":"1","date_add":"2022-09-13 19:54:11","success":"1","error":"false"},
+{"id":"338","data_core":"initiative","data_key":"view-regedit-initiative","data_log":"Onload pagination","user_id":"1","date_add":"2022-09-13 19:54:14","success":"1","error":"false"},
+{"id":"339","data_core":"initiative","data_key":"view-me-initiative","data_log":"View me initiative on index page","user_id":"1","date_add":"2022-09-13 19:54:17","success":"1","error":"false"},
+{"id":"340","data_core":"initiative","data_key":"view-my-initiative","data_log":"View my initiative on index page","user_id":"1","date_add":"2022-09-13 19:54:17","success":"1","error":"false"},
+{"id":"341","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data -шщо","user_id":"1","date_add":"2022-09-13 19:54:21","success":"1","error":"false"},
+{"id":"342","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data -шщошо","user_id":"1","date_add":"2022-09-13 19:54:21","success":"1","error":"false"},
+{"id":"343","data_core":"initiative","data_key":"search-initiative","data_log":"Searching data -шщошо","user_id":"1","date_add":"2022-09-13 19:54:21","success":"1","error":"false"},
+{"id":"344","data_core":"appeals","data_key":"load-my-appeals","data_log":"loaded to tab my appeals","user_id":"1","date_add":"2022-09-13 19:54:24","success":"1","error":"false"},
+{"id":"345","data_core":"appeals","data_key":"load-my-appeals","data_log":"loaded to tab my appeals","user_id":"1","date_add":"2022-09-13 19:54:24","success":"1","error":"false"},
+{"id":"346","data_core":"docs","data_key":"loaded","data_log":"Loading docs on ajax (pagination) - 0","user_id":"1","date_add":"2022-09-13 19:56:23","success":"1","error":"false"},
+{"id":"347","data_core":"docs","data_key":"loaded","data_log":"Loading docs on ajax (pagination) - 0","user_id":"1","date_add":"2022-09-13 19:56:37","success":"1","error":"false"},
+{"id":"348","data_core":"initiative","data_key":"view-me-initiative","data_log":"View me initiative on index page","user_id":"1","date_add":"2022-09-19 20:49:27","success":"1","error":"false"},
+{"id":"349","data_core":"initiative","data_key":"view-my-initiative","data_log":"View my initiative on index page","user_id":"1","date_add":"2022-09-19 20:49:27","success":"1","error":"false"},
+{"id":"350","data_core":"docs","data_key":"loaded","data_log":"Loading docs on ajax (pagination) - 0","user_id":"1","date_add":"2022-09-19 20:49:51","success":"1","error":"false"},
+{"id":"351","data_core":"docs","data_key":"remove-file","data_log":"remove_data_file - 10","user_id":"1","date_add":"2022-09-19 20:49:55","success":"1","error":"false"},
+{"id":"352","data_core":"docs","data_key":"loaded","data_log":"Loading docs on ajax (pagination) - 0","user_id":"1","date_add":"2022-09-19 20:49:56","success":"1","error":"false"},
+{"id":"353","data_core":"docs","data_key":"loaded","data_log":"Loading docs on ajax (pagination) - 0","user_id":"1","date_add":"2022-09-19 20:49:58","success":"1","error":"false"},
+{"id":"354","data_core":"services","data_key":"pagination","data_log":"loaded_items_type - 1","user_id":"1","date_add":"2022-09-19 20:50:16","success":"1","error":"false"},
+{"id":"355","data_core":"services","data_key":"pagination","data_log":"loaded_items_type - 2","user_id":"1","date_add":"2022-09-19 20:50:16","success":"1","error":"false"},
+{"id":"356","data_core":"services","data_key":"update-services","data_log":"loaded-services-data - 21","user_id":"1","date_add":"2022-09-19 20:50:18","success":"1","error":"false"},
+{"id":"357","data_core":"services","data_key":"update-services","data_log":"loaded-services-data - 23","user_id":"1","date_add":"2022-09-19 20:50:23","success":"1","error":"false"},
+{"id":"358","data_core":"abs","data_key":"view-abs-all","data_log":"returned data abs","user_id":"1","date_add":"2022-09-19 20:50:31","success":"1","error":"false"},
+{"id":"359","data_core":"abs","data_key":"view-form-update-abs","data_log":"view abs - 4","user_id":"1","date_add":"2022-09-19 20:50:35","success":"1","error":"false"},
+{"id":"360","data_core":"abs","data_key":"view-abs","data_log":"view abs - 4","user_id":"1","date_add":"2022-09-19 20:50:38","success":"1","error":"false"},
+{"id":"361","data_core":"abs","data_key":"view-abs","data_log":"view abs - 3","user_id":"1","date_add":"2022-09-19 20:50:42","success":"1","error":"false"},
+{"id":"362","data_core":"abs","data_key":"view-form-update-abs","data_log":"view abs - 1","user_id":"1","date_add":"2022-09-19 20:50:46","success":"1","error":"false"},
+{"id":"363","data_core":"abs","data_key":"view-abs","data_log":"view abs - 1","user_id":"1","date_add":"2022-09-19 20:50:48","success":"1","error":"false"}
+]
+}
+,{"type":"table","name":"migration","database":"nngp","data":
+[
+{"version":"m000000_000000_base","apply_time":"1660064079"},
+{"version":"m130524_201442_init","apply_time":"1660064081"},
+{"version":"m140506_102106_rbac_init","apply_time":"1661249731"},
+{"version":"m170907_052038_rbac_add_index_on_auth_assignment_user_id","apply_time":"1661249731"},
+{"version":"m180523_151638_rbac_updates_indexes_without_prefix","apply_time":"1661249731"},
+{"version":"m190124_110200_add_verification_token_column_to_user_table","apply_time":"1660064081"},
+{"version":"m200409_110543_rbac_update_mssql_trigger","apply_time":"1661249731"}
+]
+}
+,{"type":"table","name":"navbar","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"navbar_content","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"news","database":"nngp","data":
+[
+{"id":"36","user_id":"1","department_id":"1","category_id":"22","views":"11","likes":"1","date_add":"2022-09-01 14:17:51","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"37","user_id":"1","department_id":"2","category_id":"24","views":"3","likes":"0","date_add":"2022-09-01 14:18:42","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"38","user_id":"1","department_id":"1","category_id":"20","views":"13","likes":"1","date_add":"2022-09-01 14:19:05","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"39","user_id":"1","department_id":"1","category_id":"20","views":"17","likes":"0","date_add":"2022-09-01 14:19:35","date_update":null,"date_remove":"2022-09-02 10:58:53","status":"0","status_delete":"1"},
+{"id":"40","user_id":"1","department_id":"2","category_id":"26","views":"15","likes":"1","date_add":"2022-09-01 14:20:13","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"41","user_id":"1","department_id":"1","category_id":"20","views":"1","likes":"0","date_add":"2022-09-02 11:00:43","date_update":null,"date_remove":"2022-09-02 11:00:58","status":"0","status_delete":"1"}
+]
+}
+,{"type":"table","name":"news_category","database":"nngp","data":
+[
+{"id":"20","user_id":"1","name":"Нижегорднефтегазпроект","date_add":"2022-09-01 14:08:37","date_update":null,"date_remove":"2022-09-01 23:21:50","status":"1","status_delete":"0"},
+{"id":"21","user_id":"1","name":"ННГП","date_add":"2022-09-01 14:08:44","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"22","user_id":"1","name":"NNGP","date_add":"2022-09-01 14:08:50","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"23","user_id":"1","name":"Лукойл","date_add":"2022-09-01 14:08:56","date_update":"2022-09-01 14:12:50","date_remove":null,"status":"1","status_delete":"0"},
+{"id":"24","user_id":"1","name":"Новому сотруднику","date_add":"2022-09-01 14:09:03","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"25","user_id":"1","name":"Студентам","date_add":"2022-09-01 14:09:07","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"26","user_id":"1","name":"Клиентам","date_add":"2022-09-01 14:09:13","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"27","user_id":"1","name":"ерруеуккр","date_add":"2022-09-01 14:12:54","date_update":null,"date_remove":"2022-09-01 14:12:56","status":"0","status_delete":"1"}
+]
+}
+,{"type":"table","name":"news_content","database":"nngp","data":
+[
+{"id":"32","news_id":"36","title":"Внезапно, объем доходов населения сократился","annotation":"Как принято считать, сторонники тоталитаризма в науке, превозмогая сложившуюся непростую экономическую ситуацию, ассоциативно распределены по отраслям. Ясность нашей позиции очевидна: высокотехнологич","content":"<p>Как принято считать, сторонники тоталитаризма в науке, превозмогая сложившуюся непростую экономическую ситуацию, ассоциативно распределены по отраслям. Ясность нашей позиции очевидна: <span style=\"color: rgb(22, 145, 121);\"><em><strong>высокотехнологичная концепция общественного уклада предполагает независимые способы реализации направлений прогрессивного развития<\/strong><\/em><\/span>. Современные технологии достигли такого уровня, что экономическая повестка сегодняшнего дня обеспечивает широкому кругу (специалистов) участие в формировании экономической целесообразности принимаемых решений.<\/p>"},
+{"id":"33","news_id":"37","title":"Давайте разбираться: зима близко","annotation":"Приятно, граждане, наблюдать, как тщательные исследования конкурентов представляют собой не что иное, как квинтэссенцию победы маркетинга над разумом и должны быть своевременно верифицированы. Сложно","content":"<p><em><strong>Приятно, граждане, наблюдать, как тщательные исследования конкурентов представляют собой не что иное, как квинтэссенцию победы маркетинга над разумом и должны быть своевременно верифицированы. Сложно сказать, почему стремящиеся вытеснить традиционное производство, нанотехнологии разоблачены. Внезапно, стремящиеся вытеснить традиционное производство, нанотехнологии, превозмогая сложившуюся непростую экономическую ситуацию, ограничены исключительно образом мышления.<\/strong><\/em><\/p>"},
+{"id":"34","news_id":"38","title":"Только ночь оказалась долгой","annotation":"Безусловно, постоянное информационно-пропагандистское обеспечение нашей деятельности является качественно новой ступенью поставленных обществом задач. Противоположная точка зрения подразумевает, что н","content":"<p>Безусловно, постоянное информационно-пропагандистское обеспечение нашей деятельности является качественно новой ступенью поставленных обществом задач. Противоположная точка зрения подразумевает, что независимые государства будут призваны к ответу. А также предприниматели в сети интернет, вне зависимости от их уровня, должны быть преданы социально-демократической анафеме.<\/p>"},
+{"id":"35","news_id":"39","title":"Граница обучения кадров расставила все точки над i","annotation":"Внезапно, диаграммы связей неоднозначны и будут своевременно верифицированы. Сложно сказать, почему сделанные на базе интернет-аналитики выводы являются только методом политического участия и в равной","content":"<p>Внезапно, диаграммы связей неоднозначны и будут своевременно верифицированы. Сложно сказать, почему сделанные на базе интернет-аналитики выводы являются только методом политического участия и в равной степени предоставлены сами себе. Банальные, но неопровержимые выводы, а также реплицированные с зарубежных источников, современные исследования и по сей день остаются уделом либералов, которые жаждут быть преданы социально-демократической анафеме.<\/p>"},
+{"id":"36","news_id":"40","title":"Сплочённость команды профессионалов станет частью","annotation":"И нет сомнений, что стремящиеся вытеснить традиционное производство, нанотехнологии и по сей день остаются уделом либералов, которые жаждут быть обнародованы. Следует отметить, что дальнейшее развитие","content":"<p>И нет сомнений, что стремящиеся вытеснить традиционное производство, нанотехнологии и по сей день остаются уделом либералов, которые жаждут быть обнародованы. Следует отметить, что дальнейшее развитие различных форм деятельности играет важную роль в формировании кластеризации усилий. В рамках спецификации современных стандартов, независимые государства рассмотрены исключительно в разрезе маркетинговых и финансовых предпосылок.<\/p>"},
+{"id":"37","news_id":"41","title":"rehfd","annotation":"eerhreherh","content":"<p>hererhrehher<\/p>"}
+]
+}
+,{"type":"table","name":"news_fixed","database":"nngp","data":
+[
+{"id":"32","news_id":"36","status":"1"},
+{"id":"33","news_id":"37","status":"1"},
+{"id":"34","news_id":"38","status":"0"},
+{"id":"35","news_id":"39","status":"0"},
+{"id":"36","news_id":"40","status":"0"},
+{"id":"37","news_id":"41","status":"0"}
+]
+}
+,{"type":"table","name":"news_likes","database":"nngp","data":
+[
+{"id":"6","news_id":"36","user_id":"1","status":"1"},
+{"id":"7","news_id":"40","user_id":"1","status":"1"},
+{"id":"8","news_id":"38","user_id":"1","status":"1"}
+]
+}
+,{"type":"table","name":"news_preview","database":"nngp","data":
+[
+{"id":"29","news_id":"36","image_src":"uploads\/_kGUKppoJ7w4RodRKqg5HLCagdZuGV.jpg","video_src":""},
+{"id":"30","news_id":"37","image_src":"uploads\/FIOKRl7D5fNNEMD9LFogloNnROpxwj.jpg","video_src":"uploads\/whaDafk2TTIiL6--DCB_SP5sMzckd5.mp4"},
+{"id":"31","news_id":"38","image_src":"uploads\/bowklU5bo6mLO3k5OJsHpt-TCHsYc-.jpg","video_src":""},
+{"id":"32","news_id":"39","image_src":"uploads\/MRvw98RnOMjcQhIlGd4FBxGoossEtp.png","video_src":""},
+{"id":"33","news_id":"40","image_src":"uploads\/_3Sn8Qg65sAnhCWRonVKgesiZiB45D.jpg","video_src":"uploads\/qSjrA0Qy9E_jrysjTgI_jl1pnoD5WZ.mp4"},
+{"id":"34","news_id":"41","image_src":"uploads\/Bx6nbRturwLj42C7-DLqabjgMy-8-l.webp","video_src":""}
+]
+}
+,{"type":"table","name":"notification","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"projects","database":"nngp","data":
+[
+{"id":"8","user_id":"1","group_id":"1","date_add":"2022-09-01 17:32:14","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"9","user_id":"1","group_id":"1","date_add":"2022-07-06 17:33:37","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"10","user_id":"1","group_id":"1","date_add":"2022-09-01 17:33:58","date_update":null,"date_remove":null,"status":"0","status_delete":"0"},
+{"id":"11","user_id":"1","group_id":"2","date_add":"2022-09-01 18:22:15","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"12","user_id":"1","group_id":"9","date_add":"2022-08-17 18:48:39","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"13","user_id":"1","group_id":"2","date_add":"2022-09-01 18:49:09","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"14","user_id":"1","group_id":"1","date_add":"2022-09-02 11:29:46","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"15","user_id":"1","group_id":"9","date_add":"2022-09-02 11:30:02","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"16","user_id":"1","group_id":"1","date_add":"2022-09-02 11:30:25","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"17","user_id":"1","group_id":"2","date_add":"2022-09-02 11:30:44","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"18","user_id":"1","group_id":"2","date_add":"2022-09-02 11:31:03","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"19","user_id":"1","group_id":"9","date_add":"2022-09-02 19:22:10","date_update":null,"date_remove":null,"status":"0","status_delete":"0"}
+]
+}
+,{"type":"table","name":"projects_content","database":"nngp","data":
+[
+{"id":"7","project_id":"8","customer_id":"2","number_customer":"4748","number_in":"557522","date":"2022","title":"Консультация с широким активом показала себя во всей красе","text":"o;joj"},
+{"id":"9","project_id":"10","customer_id":"6","number_customer":"5452","number_in":"5454","date":"2021-2022","title":"Светлый лик правового взаимодействия связывает нас с нашим прошлым","text":"hghdfggfd"},
+{"id":"11","project_id":"12","customer_id":"2","number_customer":"67-29-2021","number_in":"ННГП 1-21","date":"2019-2021","title":"Внесение изменений в ПД \"Строительство блока производства серы №2 установки ГДС-850 в ООО \"ЛУКОЙЛ-УНП\"","text":"Контракт выполнен сотрудниками ООО «ННГП» в составе ООО «ЛУКОЙЛ-Нижегородниинефтепроект»"},
+{"id":"12","project_id":"13","customer_id":"6","number_customer":"54546","number_in":"6565","date":"2022","title":"Сложно сказать, почему семантический разбор внешних противодействий определил дальнейшее развитие","text":"Добрая половина выводов даёт нам право принимать самостоятельные решения"},
+{"id":"13","project_id":"14","customer_id":"6","number_customer":"5546","number_in":"6554","date":"2022","title":"В провинции никого не пугает боевой клич героев","text":"В провинции никого не пугает боевой клич героев"},
+{"id":"14","project_id":"15","customer_id":"9","number_customer":"4545","number_in":"687","date":"2021","title":"В провинции никого не пугает боевой клич героев","text":"В провинции никого не пугает боевой клич героев"},
+{"id":"15","project_id":"16","customer_id":"6","number_customer":"4554","number_in":"5454","date":"2021","title":"Внезапно, чистый разум не скован границами","text":"Высокий уровень вовлечения представителей целевой аудитории является четким доказательством простого факта: курс на социально-ориентированный национальный проект обеспечивает широкому кругу (специалистов) участие в формировании своевременного выполнения сверхзадачи. Как уже неоднократно упомянуто, многие известные личности в равной степени предоставлены сами себе."},
+{"id":"16","project_id":"17","customer_id":"9","number_customer":"25454","number_in":"5454","date":"2021","title":"Да, кровь стынет в жилах","text":"Да, кровь стынет в жилах"},
+{"id":"17","project_id":"18","customer_id":"9","number_customer":"77555","number_in":"8778","date":"2020-2022","title":"Независимые СМИ потому и независимы, что ночь оказалась долгой","text":"Независимые СМИ потому и независимы, что ночь оказалась долгой"},
+{"id":"18","project_id":"19","customer_id":"10","number_customer":"64541","number_in":"5454546","date":"2009-2011","title":"Комплексное проектирование объекта «Секция гидроочистки нафты (1300) с блоком стабилизации установки тит.007 «Комплекса нефтеперерабатывающих и нефтехимических заводов ОАО «ТАНЕКО»","text":"Контракт выполнен сотрудниками ООО «ННГП» в составе ООО «ЛУКОЙЛ-Нижегородниинефтепроект»"}
+]
+}
+,{"type":"table","name":"projects_group","database":"nngp","data":
+[
+{"id":"1","name":"Заключенные Договоры с ООО \"ЛУКОЙЛ-Нижегородниинефтепроект\" и предприятиями БННГ"},
+{"id":"2","name":"Перспективные проекты c внешними организациями "},
+{"id":"9","name":"Договоры на стадии заключения \/ Перспективные проекты  с ООО &quot;ЛУКОЙЛ-Нижегородниинефтепроект&quot;  и предприятиями БННГ"}
+]
+}
+,{"type":"table","name":"quiz","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"quiz_content","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"sample","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"sample_category","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"sample_content","database":"nngp","data":
+[
+
+]
+}
+,{"type":"table","name":"services","database":"nngp","data":
+[
+{"id":"1","user_id":"1","type_id":"1","date_add":"2022-09-07 12:19:17","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"2","user_id":"1","type_id":"1","date_add":"2022-09-08 10:59:19","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"3","user_id":"3","type_id":"2","date_add":"2022-09-08 10:59:19","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"6","user_id":"1","type_id":"1","date_add":"2022-09-08 12:19:41","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"7","user_id":"1","type_id":"2","date_add":"2022-09-08 12:21:12","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"8","user_id":"1","type_id":"2","date_add":"2022-09-08 12:23:07","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"9","user_id":"1","type_id":"1","date_add":"2022-09-08 12:23:16","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"10","user_id":"1","type_id":"1","date_add":"2022-09-08 15:59:51","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"11","user_id":"1","type_id":"1","date_add":"2022-09-08 16:00:00","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"12","user_id":"1","type_id":"1","date_add":"2022-09-08 16:00:24","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"13","user_id":"1","type_id":"1","date_add":"2022-09-08 16:02:55","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"14","user_id":"1","type_id":"2","date_add":"2022-09-08 16:06:27","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"15","user_id":"1","type_id":"1","date_add":"2022-09-08 16:06:46","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"16","user_id":"1","type_id":"2","date_add":"2022-09-08 16:06:59","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"17","user_id":"1","type_id":"1","date_add":"2022-09-08 16:07:24","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"18","user_id":"1","type_id":"1","date_add":"2022-09-08 16:07:29","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"19","user_id":"1","type_id":"2","date_add":"2022-09-08 16:08:01","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"20","user_id":"1","type_id":"2","date_add":"2022-09-08 16:17:56","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"21","user_id":"1","type_id":"1","date_add":"2022-09-08 16:18:49","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"22","user_id":"1","type_id":"1","date_add":"2022-09-08 16:20:31","date_update":null,"date_remove":null,"status":"0","status_delete":"1"},
+{"id":"23","user_id":"1","type_id":"1","date_add":"2022-09-08 17:52:45","date_update":null,"date_remove":null,"status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"services_content","database":"nngp","data":
+[
+{"id":"1","services_id":"1","title":"Сервер 01","href":"0","href_src":null},
+{"id":"2","services_id":"2","title":"Сервер 02","href":"1","href_src":"\/home\/index"},
+{"id":"3","services_id":"3","title":"Сервер 01 - новый","href":"0","href_src":null},
+{"id":"4","services_id":"6","title":"Сервер 03","href":"1","href_src":"\/docs\/index"},
+{"id":"5","services_id":"7","title":"Сервер 02 - новый","href":"0","href_src":null},
+{"id":"6","services_id":"8","title":"Сервер 03 - новый","href":"0","href_src":null},
+{"id":"7","services_id":"9","title":"Сервер 04","href":"0","href_src":null},
+{"id":"8","services_id":"10","title":"228.146.207.253","href":"0","href_src":null},
+{"id":"9","services_id":"11","title":"195.88.138.222","href":"0","href_src":null},
+{"id":"10","services_id":"12","title":"Сервис 01","href":"1","href_src":"https:\/\/ideait.ru\/"},
+{"id":"11","services_id":"13","title":"14.248.0.192","href":"0","href_src":null},
+{"id":"12","services_id":"14","title":"44.140.68.179","href":"0","href_src":null},
+{"id":"13","services_id":"15","title":"224.94.232.31","href":"0","href_src":null},
+{"id":"14","services_id":"16","title":"224.94.232.31","href":"0","href_src":null},
+{"id":"15","services_id":"17","title":"201.57.145.143","href":"0","href_src":null},
+{"id":"16","services_id":"18","title":"253.17.219.2","href":"0","href_src":null},
+{"id":"17","services_id":"19","title":"Новому сотруднику","href":"1","href_src":"http:\/\/yii2.nngp.loc\/frontend\/web\/uploads\/himQIi-bLTpfqgLSbgog6hPZ_OBjHG.pdf"},
+{"id":"18","services_id":"20","title":"Новый: 14.154.132.117","href":"0","href_src":null},
+{"id":"19","services_id":"21","title":"Доп: 82.165.58.103","href":"0","href_src":null},
+{"id":"20","services_id":"22","title":"ffdbrg","href":"0","href_src":null},
+{"id":"21","services_id":"23","title":"Файл доступа","href":"1","href_src":"http:\/\/yii2.nngp.loc\/frontend\/web\/uploads\/himQIi-bLTpfqgLSbgog6hPZ_OBjHG.pdf"}
+]
+}
+,{"type":"table","name":"services_type","database":"nngp","data":
+[
+{"id":"1","name":"all_employee"},
+{"id":"2","name":"new_employee"}
+]
+}
+,{"type":"table","name":"template","database":"nngp","data":
+[
+{"id":"1","data_key":"about","data_key_content":"about_title","content":"«Нижегороднефтегазпроект»","user_id":"1","date_add":"2022-09-04 23:23:47","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"2","data_key":"about","data_key_content":"about_title_2","content":"Молодая компания с 70-летней историей","user_id":"1","date_add":"2022-09-04 23:24:16","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"3","data_key":"about","data_key_content":"about_description","content":"Нижегороднефтегазпроект образован в 2019 году. Парадоксально, но этот факт вовсе не делает компанию новичком на рынке! Ведь за плечами основной части коллектива большой опыт работы в Группе «ЛУКОЙЛ». Именно из реорганизации проектного блока ООО «Лукойл-Нижегородниинефтепроект» и была создана наша организация. Мы перевернули страницу, и начинаем писать новую главу нашей истории!","user_id":"1","date_add":"2022-09-04 23:24:45","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"4","data_key":"about","data_key_content":"about_company_title","content":"Принципы компании","user_id":"1","date_add":"2022-09-04 23:26:08","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"5","data_key":"about","data_key_content":"about_company_description","content":"Мы не просто разрабатываем проектные решения для заказчиков. Мы сопровождаем объект на всех его этапах. Наши специалисты ведут постоянный мониторинг и оценку предлагаемых проектных решений. Нам важно, чтобы они оставались эффективными с точки зрения сроков, стоимости и объема строительно-монтажных работ.\n\nВместе с заказчиками ищем оптимальные варианты проекта, чтобы помочь нашим партнерам максимально быстро вернуть капитальные вложения.","user_id":"1","date_add":"2022-09-04 23:26:08","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"6","data_key":"about","data_key_content":"about_mission_title","content":"Основная миссия","user_id":"1","date_add":"2022-09-04 23:26:58","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"7","data_key":"about","data_key_content":"about_mission_description","content":"Расти и способствовать росту бизнеса заказчиков, осуществляя качественный инжиниринг проектов","user_id":"1","date_add":"2022-09-04 23:26:58","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"8","data_key":"about","data_key_content":"about_worker_title","content":"Наши сотрудник","user_id":"1","date_add":"2022-09-04 23:27:55","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"9","data_key":"about","data_key_content":"about_worker_description","content":"Разработкой проектов занимаются квалифицированные специалисты. За их плечами многолетняя работа с проектами строительства, реконструкции и технического перевооружения установок НПЗ, ГПЗ, НХП. Кроме того, они имеют опыт прохождения Государственной экологической экспертизы, Государственной экспертизы проектной документации и экспертизы промышленной безопасности. Все специалисты аттестованы в области охраны труда и промышленной безопасности.","user_id":"1","date_add":"2022-09-04 23:27:55","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"10","data_key":"about","data_key_content":"about_number_title","content":"Компания в цифрах","user_id":"1","date_add":"2022-09-04 23:29:17","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"11","data_key":"about","data_key_content":"about_number_01","content":"200+","user_id":"1","date_add":"2022-09-04 23:29:17","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"12","data_key":"about","data_key_content":"about_number_01_text","content":"Сотрудников","user_id":"1","date_add":"2022-09-04 23:29:17","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"13","data_key":"about","data_key_content":"about_number_02","content":"60+","user_id":"1","date_add":"2022-09-04 23:30:07","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"14","data_key":"about","data_key_content":"about_number_02_text","content":"Выполненных\nпроектов за 10 лет","user_id":"1","date_add":"2022-09-04 23:30:07","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"15","data_key":"about","data_key_content":"about_number_03","content":"9","user_id":"1","date_add":"2022-09-04 23:30:51","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"16","data_key":"about","data_key_content":"about_number_03_text","content":"Основных\nпартнёров","user_id":"1","date_add":"2022-09-04 23:30:51","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"17","data_key":"about","data_key_content":"about_number_04","content":"2","user_id":"1","date_add":"2022-09-04 23:31:42","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"18","data_key":"about","data_key_content":"about_number_04_text","content":"Офиса в РФ","user_id":"1","date_add":"2022-09-04 23:31:42","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"19","data_key":"about","data_key_content":"about_number_05","content":"17","user_id":"1","date_add":"2022-09-04 23:32:39","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"20","data_key":"about","data_key_content":"about_number_05_text","content":"Средний стаж\nработы сотрудников","user_id":"1","date_add":"2022-09-04 23:32:39","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"21","data_key":"about","data_key_content":"about_number_06","content":"с 1951 года","user_id":"1","date_add":"2022-09-04 23:33:54","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"22","data_key":"about","data_key_content":"about_number_06_text","content":"Опыт работы","user_id":"1","date_add":"2022-09-04 23:33:54","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"23","data_key":"about","data_key_content":"about_number_06_title","content":"Преемственность","user_id":"1","date_add":"2022-09-04 23:33:54","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"24","data_key":"about","data_key_content":"about_banner_image","content":"image\/demo\/21.jpg","user_id":"1","date_add":"2022-09-04 23:49:54","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"25","data_key":"about","data_key_content":"about_company_image","content":"image\/demo\/22.jpg","user_id":"1","date_add":"2022-09-04 23:49:54","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"26","data_key":"about","data_key_content":"about_mission_image","content":"image\/elements\/mission.svg","user_id":"1","date_add":"2022-09-04 23:49:54","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"27","data_key":"about","data_key_content":"about_worker_image","content":"image\/demo\/23.jpg","user_id":"1","date_add":"2022-09-04 23:49:54","date_update":null,"date_remove":null,"status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"user","database":"nngp","data":
+[
+{"id":"1","username":"admin","auth_key":"GaVDdGDEEvj6tmFigYIVXPT3hWMEvjXA","password_hash":"$2y$13$fFSrLx1lVnITJgtHBAC38uVUI5QqC9c.CwMwOpkvjZGfOS2rX0osu","password_reset_token":null,"email":"balabaev@ideait.ru","status":"10","created_at":"1661250171","updated_at":"1661357021","verification_token":"EBSJqRuCHw03Du8oSUD_vKdL-Ssg8vDR_1661250171"},
+{"id":"3","username":"d_admin","auth_key":"xDjUxcmcWtSU_yHgfqB48LsM7MhrfRlI","password_hash":"$2y$13$Jdmo.Fvypgp8eMsGtmO5kOI8CLm7.zopOMW5XQrQJkdyWugn6ke3K","password_reset_token":null,"email":"balabaev.info@yandex.ru","status":"10","created_at":"1661250432","updated_at":"1661250432","verification_token":"wSFzrvLGZpFKjB3won0PAKpxGeXK_bhu_1661250432"}
+]
+}
+,{"type":"table","name":"user_avatar","database":"nngp","data":
+[
+{"id":"1","user_id":"1","src":"uploads\/rQElgRUQTtFTP4qlu_VaclGMa_Kj4Yqd9Us.jpg","date_add":"2022-08-23 15:40:27","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"2","user_id":"3","src":"image\/elements\/user.png","date_add":"2022-08-23 15:47:02","date_update":null,"date_remove":null,"status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"user_data","database":"nngp","data":
+[
+{"id":"1","user_id":"1","data_group":null,"surname":"Балабаев","firstname":"Данила","report":"Игоревич","fullname":"Балабаев Данила Игоревич","job":"Супер Администратор","birthday_day":"1","birthday_month":"1","birthday_year":"2000","birthday_view":"0","recruitment":"2022-01-01 00:00:00","address":"г. Москва, ул. Первомайская, 16","in_work":"1","status":"1","status_delete":"0"},
+{"id":"2","user_id":"3","data_group":null,"surname":"Иванов","firstname":"Иван","report":"Иванович","fullname":"Иванов Иван Иванович","job":"SEO","birthday_day":"1","birthday_month":"1","birthday_year":"1990","birthday_view":"0","recruitment":"2022-08-01 15:47:11","address":"г. Москва, ул. Новый Арбат","in_work":"0","status":"1","status_delete":"0"}
+]
+}
+,{"type":"table","name":"user_mentor","database":"nngp","data":
+[
+{"id":"1","user_id":"1","user_id_mentor":"1"},
+{"id":"2","user_id":"3","user_id_mentor":"1"}
+]
+}
+,{"type":"table","name":"user_telephone","database":"nngp","data":
+[
+{"id":"2","user_id":"1","telephone":"","date_add":"2022-08-23 15:48:52","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"9","user_id":"1","telephone":"+7 (963) 523-32-52","date_add":"2022-08-24 19:19:45","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"10","user_id":"3","telephone":"+7 856 963 52 63","date_add":"2022-08-24 19:19:57","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"12","user_id":"1","telephone":"+7 856 366-63-56","date_add":"2022-08-24 19:21:17","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"13","user_id":"1","telephone":"+7 859 959 52 85","date_add":"2022-08-24 19:22:18","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"14","user_id":"3","telephone":"+7 856 969 99 96","date_add":"2022-08-24 19:36:00","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"15","user_id":"3","telephone":"+7 987 654-32-10","date_add":"2022-08-24 19:36:50","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"16","user_id":"1","telephone":"+7 (965) 965-96-96","date_add":"2022-08-24 21:34:14","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"17","user_id":"1","telephone":"+7 (999) 999-99-99","date_add":"2022-08-24 22:07:28","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"18","user_id":"1","telephone":"+7 (235) 268-56-78","date_add":"2022-08-25 01:21:55","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"19","user_id":"1","telephone":"+7 855 855-85-96","date_add":"2022-08-25 01:22:08","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"20","user_id":"3","telephone":"+7 (856) 855-96-96","date_add":"2022-08-25 17:28:43","date_update":null,"date_remove":null,"status":"1","status_delete":"0"},
+{"id":"21","user_id":"1","telephone":"+7 758 856 96-52","date_add":"2022-08-25 21:17:52","date_update":null,"date_remove":null,"status":"1","status_delete":"1"},
+{"id":"22","user_id":"1","telephone":"+7 (888) 888-88-88","date_add":"2022-09-12 20:52:43","date_update":null,"date_remove":null,"status":"1","status_delete":"1"}
+]
+}
+]
